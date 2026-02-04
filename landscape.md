@@ -9,7 +9,6 @@ title: Landscape
 ## Chains
 - Snapshot sources are listed per entry; order is not a ranking.
 
-<div class="table-wrap">
 | Name | Layer | NativeAsset | Category | KeyNotes | Figurehead(public) | MetricSourceURL | SnapshotDate | OfficialURL |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Bitcoin | L1 | BTC | Payments | PoW UTXO chain focused on payments | Satoshi Nakamoto | [Source](https://defillama.com/chains) | 2026-02-04 | [Official](https://bitcoin.org) |
@@ -28,14 +27,12 @@ title: Landscape
 | Base | L2 | ETH | General | Ethereum optimistic rollup L2 by Coinbase | N/A | [Source](https://l2beat.com/scaling/summary) | 2026-02-04 | [Official](https://base.org) |
 | zkSync Era | L2 | ZK | General | Ethereum zk rollup L2 | N/A | [Source](https://l2beat.com/scaling/summary) | 2026-02-04 | [Official](https://zksync.io) |
 | Starknet | L2 | STRK | General | Ethereum zk rollup L2 with Cairo | N/A | [Source](https://l2beat.com/scaling/summary) | 2026-02-04 | [Official](https://starknet.io) |
-</div>
 
 ## Trading
 - Snapshot sources are listed per entry; order is not a ranking.
 
 ### CEX
 
-<div class="table-wrap">
 | Name | RegionNotes | KeyNotes | MetricSourceURL | SnapshotDate | OfficialURL |
 | --- | --- | --- | --- | --- | --- |
 | Binance | Global | Global centralized exchange | [Source](https://www.coingecko.com/en/exchanges) | 2026-02-04 | [Official](https://www.binance.com) |
@@ -48,11 +45,9 @@ title: Landscape
 | Bitfinex | Global | Centralized exchange with margin trading | [Source](https://www.coingecko.com/en/exchanges) | 2026-02-04 | [Official](https://www.bitfinex.com) |
 | Gate.io | Global | Centralized exchange | [Source](https://www.coingecko.com/en/exchanges) | 2026-02-04 | [Official](https://www.gate.io) |
 | KuCoin | Global | Centralized exchange | [Source](https://www.coingecko.com/en/exchanges) | 2026-02-04 | [Official](https://www.kucoin.com) |
-</div>
 
 ### DEX
 
-<div class="table-wrap">
 | Name | Type | Chain | Ecosystem | KeyNotes | MetricSourceURL | SnapshotDate | OfficialURL |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Uniswap | Spot | Ethereum | EVM | AMM for ERC-20 swaps | [Source](https://defillama.com/dexs) | 2026-02-04 | [Official](https://uniswap.org) |
@@ -64,11 +59,9 @@ title: Landscape
 | GMX | Perp | Arbitrum | Ethereum L2 | Perp AMM with pooled liquidity | [Source](https://defillama.com/derivatives) | 2026-02-04 | [Official](https://gmx.io) |
 | dYdX | Perp | dYdX Chain | Cosmos | Orderbook perpetuals exchange | [Source](https://defillama.com/derivatives) | 2026-02-04 | [Official](https://dydx.exchange) |
 | Hyperliquid | Perp | Hyperliquid | Hyperliquid | Orderbook perpetuals exchange | [Source](https://defillama.com/derivatives) | 2026-02-04 | [Official](https://hyperliquid.xyz) |
-</div>
 
 ## Data/Analytics
 
-<div class="table-wrap">
 | Name | Type | KeyNotes | OfficialURL |
 | --- | --- | --- | --- |
 | Nansen | Research | On-chain analytics dashboards | [Official](https://www.nansen.ai) |
@@ -77,22 +70,18 @@ title: Landscape
 | DefiLlama | Research | DeFi TVL and market data aggregator | [Official](https://defillama.com) |
 | Etherscan | Explorer | Ethereum block explorer | [Official](https://etherscan.io) |
 | Blockchair | Explorer | Multi-chain block explorer | [Official](https://blockchair.com) |
-</div>
 
 ## Security/Compliance
 
-<div class="table-wrap">
 | Name | Type | KeyNotes | OfficialURL |
 | --- | --- | --- | --- |
 | Chainalysis | KYT | Blockchain compliance and transaction monitoring | [Official](https://www.chainalysis.com) |
 | TRM Labs | KYT | Blockchain intelligence and compliance tooling | [Official](https://www.trmlabs.com) |
 | Elliptic | KYT | Blockchain analytics for compliance | [Official](https://www.elliptic.co) |
 | Arkham | Labeling | Entity labeling and intelligence platform | [Official](https://arkhamintelligence.com) |
-</div>
 
 ## Middleware
 
-<div class="table-wrap">
 | Name | Type | KeyNotes | SecurityAssumptions | OfficialURL |
 | --- | --- | --- | --- | --- |
 | Chainlink | Oracle | Decentralized oracle network for data feeds | Relies on node operators and crypto-economic incentives | [Official](https://chain.link) |
@@ -100,12 +89,10 @@ title: Landscape
 | LayerZero | Messaging | Omnichain messaging protocol using oracle + relayer | Security depends on oracle and relayer configuration | [Official](https://layerzero.network) |
 | Wormhole | Messaging | Cross-chain messaging bridge with guardian network | Security depends on guardian network quorum | [Official](https://wormhole.com) |
 | Axelar | Messaging | Cross-chain messaging via validator network | Security depends on Axelar validator set | [Official](https://axelar.network) |
-</div>
 
 ## Stablecoins
 - Snapshot sources are listed per entry; order is not a ranking.
 
-<div class="table-wrap">
 | Name | Type | Issuer | PrimaryChains | KeyNotes | MetricSourceURL | SnapshotDate | OfficialURL |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | USDT | Fiat-backed | Tether | Ethereum; TRON; Solana | Widely used fiat-backed stablecoin | [Source](https://defillama.com/stablecoins) | 2026-02-04 | [Official](https://tether.to) |
@@ -114,11 +101,9 @@ title: Landscape
 | LUSD | Crypto-collateralized | Liquity | Ethereum | Crypto-collateralized stablecoin by Liquity | [Source](https://defillama.com/stablecoins) | 2026-02-04 | [Official](https://liquity.org) |
 | USDe | Synthetic | Ethena | Ethereum | Synthetic stablecoin using delta-hedging | [Source](https://defillama.com/stablecoins) | 2026-02-04 | [Official](https://ethena.fi) |
 | USDD | Synthetic | TRON DAO Reserve | TRON; Ethereum | Synthetic stablecoin for TRON ecosystem | [Source](https://defillama.com/stablecoins) | 2026-02-04 | [Official](https://usdd.io) |
-</div>
 
 ## Wallets
 
-<div class="table-wrap">
 | Name | Type | PrimaryEcosystems | KeyNotes | OfficialURL |
 | --- | --- | --- | --- | --- |
 | MetaMask | Software | EVM | Browser/mobile wallet for EVM chains | [Official](https://metamask.io) |
@@ -131,11 +116,9 @@ title: Landscape
 | Trezor | Hardware | Multi-chain | Hardware wallet device | [Official](https://trezor.io) |
 | Safe Wallet | Software | EVM | Smart contract wallet interface for Safe | [Official](https://safe.global/wallet) |
 | Exodus | Software | Multi-chain | Desktop and mobile wallet | [Official](https://www.exodus.com) |
-</div>
 
 ## Custody
 
-<div class="table-wrap">
 | Name | Model | TargetUsers | KeyNotes | OfficialURL |
 | --- | --- | --- | --- | --- |
 | Coinbase Custody | HSM | Institutions | Institutional custody service with cold storage | [Official](https://www.coinbase.com/institutional/custody) |
@@ -144,18 +127,15 @@ title: Landscape
 | Anchorage Digital | HSM | Institutions | Digital asset custody and banking services | [Official](https://www.anchorage.com) |
 | Copper | MPC | Institutions | MPC custody and settlement | [Official](https://copper.co) |
 | Gemini Custody | HSM | Institutions | Institutional custody offering cold storage | [Official](https://www.gemini.com/custody) |
-</div>
 
 ## Multi-sig
 
-<div class="table-wrap">
 | Chain | MainSolution | Type | KeyNotes | OfficialURL | DocsURL |
 | --- | --- | --- | --- | --- | --- |
 | Ethereum | Safe | Smart contract | Smart contract multisig wallet used across EVM chains | [Official](https://safe.global) | [Docs](https://docs.safe.global) |
 | Solana | Squads | Smart contract | Program-based multisig for Solana accounts | [Official](https://squads.so) | [Docs](https://docs.squads.so) |
 | TRON | Account Permissions | Native permission | Native multi-signature permissions for TRON accounts | [Official](https://tron.network) | [Docs](https://developers.tron.network/docs/account-permission) |
 | Bitcoin | PSBT + Script | Script | Multi-signature via script policies and PSBT workflows | [Official](https://bitcoin.org) | [Docs](https://github.com/bitcoin/bips/blob/master/bip-0174.mediawiki) |
-</div>
 
 ## Reading Path
 - Start with glossary (Glossary, 术语表) terms for L1/L2, rollup, wallet, stablecoin.
