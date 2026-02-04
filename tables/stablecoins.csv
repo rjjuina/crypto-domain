@@ -1,7 +1,7 @@
 Name,Type(Fiat-backed/Crypto-collateralized/Synthetic),Issuer,PrimaryChains,KeyNotes,MetricSourceURL,SnapshotDate,OfficialURL
-USDT,Fiat-backed,Tether,Ethereum; Tron; Solana,Widely used fiat-backed stablecoin,https://defillama.com/stablecoins,2026-02-04,https://tether.to
+USDT,Fiat-backed,Tether,Ethereum; TRON; Solana,Widely used fiat-backed stablecoin,https://defillama.com/stablecoins,2026-02-04,https://tether.to
 USDC,Fiat-backed,Circle,Ethereum; Solana; Base,Fully reserved fiat-backed stablecoin,https://defillama.com/stablecoins,2026-02-04,https://www.circle.com/usdc
 DAI,Crypto-collateralized,MakerDAO,Ethereum,Crypto-collateralized stablecoin from Maker,https://defillama.com/stablecoins,2026-02-04,https://makerdao.com
 LUSD,Crypto-collateralized,Liquity,Ethereum,Crypto-collateralized stablecoin by Liquity,https://defillama.com/stablecoins,2026-02-04,https://liquity.org
 USDe,Synthetic,Ethena,Ethereum,Synthetic stablecoin using delta-hedging,https://defillama.com/stablecoins,2026-02-04,https://ethena.fi
-USDD,Synthetic,TRON DAO Reserve,Tron; Ethereum,Synthetic stablecoin for TRON ecosystem,https://defillama.com/stablecoins,2026-02-04,https://usdd.io
+USDD,Synthetic,TRON DAO Reserve,TRON; Ethereum,Synthetic stablecoin for TRON ecosystem,https://defillama.com/stablecoins,2026-02-04,https://usdd.io
