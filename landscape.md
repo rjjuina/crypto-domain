@@ -7,26 +7,27 @@ title: Landscape
 # Crypto Domain Landscape
 
 ## Chains
-- Sources are listed per entry; order is not a ranking.
+- Metric sources: L1 chains use [DefiLlama](https://defillama.com/chains); L2 rollups use [L2Beat](https://l2beat.com/scaling/summary).
+- Order is not a ranking.
 
-| Name | Layer | NativeAsset | Category | KeyNotes | Figurehead(public) | MetricSourceURL |
-| --- | --- | --- | --- | --- | --- | --- |
-| [Bitcoin](https://bitcoin.org) | L1 | BTC | Payments | PoW UTXO chain focused on payments | Satoshi Nakamoto | [Source](https://defillama.com/chains) |
-| [Ethereum](https://ethereum.org) | L1 | ETH | General | General-purpose smart contract platform; EVM | Vitalik Buterin | [Source](https://defillama.com/chains) |
-| [BNB Chain](https://www.bnbchain.org) | L1 | BNB | General | EVM-compatible smart contract chain | Changpeng Zhao | [Source](https://defillama.com/chains) |
-| [Solana](https://solana.com) | L1 | SOL | General | High-throughput PoS chain; Rust programs | Anatoly Yakovenko | [Source](https://defillama.com/chains) |
-| [Cardano](https://cardano.org) | L1 | ADA | General | PoS chain using UTXO model | Charles Hoskinson | [Source](https://defillama.com/chains) |
-| [Avalanche](https://www.avax.network) | L1 | AVAX | General | Subnet-based PoS platform; EVM C-Chain | Emin Gün Sirer | [Source](https://defillama.com/chains) |
-| [Polygon](https://polygon.technology) | L1 | MATIC | General | EVM scaling ecosystem; PoS chain | Sandeep Nailwal | [Source](https://defillama.com/chains) |
-| [TRON](https://tron.network) | L1 | TRX | Payments | EVM-like chain focused on payments | Justin Sun | [Source](https://defillama.com/chains) |
-| [Cosmos](https://cosmos.network) | L1 | ATOM | General | IBC-based ecosystem; Cosmos SDK | Jae Kwon | [Source](https://defillama.com/chains) |
-| [Polkadot](https://polkadot.network) | L1 | DOT | General | Relay chain with parachains; Substrate | Gavin Wood | [Source](https://defillama.com/chains) |
-| [NEAR](https://near.org) | L1 | NEAR | General | Sharded PoS chain; account model | Illia Polosukhin | [Source](https://defillama.com/chains) |
-| [Arbitrum](https://arbitrum.io) | L2 | ARB | General | Ethereum optimistic rollup L2 | N/A | [Source](https://l2beat.com/scaling/summary) |
-| [Optimism](https://optimism.io) | L2 | OP | General | Ethereum optimistic rollup L2 | N/A | [Source](https://l2beat.com/scaling/summary) |
-| [Base](https://base.org) | L2 | ETH | General | Ethereum optimistic rollup L2 by Coinbase | N/A | [Source](https://l2beat.com/scaling/summary) |
-| [zkSync Era](https://zksync.io) | L2 | ZK | General | Ethereum zk rollup L2 | N/A | [Source](https://l2beat.com/scaling/summary) |
-| [Starknet](https://starknet.io) | L2 | STRK | General | Ethereum zk rollup L2 with Cairo | N/A | [Source](https://l2beat.com/scaling/summary) |
+| Name | Layer | NativeAsset | KeyNotes | Figurehead(public) | Explorer |
+| --- | --- | --- | --- | --- | --- |
+| [Bitcoin](https://bitcoin.org) | L1 | BTC | PoW UTXO chain focused on payments | Satoshi Nakamoto | [Explorer](https://blockstream.info) |
+| [Ethereum](https://ethereum.org) | L1 | ETH | General-purpose smart contract platform; EVM | Vitalik Buterin | [Explorer](https://etherscan.io) |
+| [BNB Chain](https://www.bnbchain.org) | L1 | BNB | EVM-compatible smart contract chain | Changpeng Zhao | [Explorer](https://bscscan.com) |
+| [Solana](https://solana.com) | L1 | SOL | High-throughput PoS chain; Rust programs | Anatoly Yakovenko | [Explorer](https://explorer.solana.com) |
+| [Cardano](https://cardano.org) | L1 | ADA | PoS chain using UTXO model | Charles Hoskinson | [Explorer](https://explorer.cardano.org) |
+| [Avalanche](https://www.avax.network) | L1 | AVAX | Subnet-based PoS platform; EVM C-Chain | Emin Gün Sirer | [Explorer](https://explorer.avax.network) |
+| [Polygon](https://polygon.technology) | L1 | MATIC | EVM scaling ecosystem; PoS chain | Sandeep Nailwal | [Explorer](https://polygonscan.com) |
+| [TRON](https://tron.network) | L1 | TRX | EVM-like chain focused on payments | Justin Sun | [Explorer](https://tronscan.org) |
+| [Cosmos](https://cosmos.network) | L1 | ATOM | IBC-based ecosystem; Cosmos SDK | Jae Kwon | [Explorer](https://www.mintscan.io/cosmos) |
+| [Polkadot](https://polkadot.network) | L1 | DOT | Relay chain with parachains; Substrate | Gavin Wood | [Explorer](https://polkadot.subscan.io) |
+| [NEAR](https://near.org) | L1 | NEAR | Sharded PoS chain; account model | Illia Polosukhin | [Explorer](https://explorer.near.org) |
+| [Arbitrum](https://arbitrum.io) | L2 | ARB | Ethereum optimistic rollup L2 | N/A | [Explorer](https://arbiscan.io) |
+| [Optimism](https://optimism.io) | L2 | OP | Ethereum optimistic rollup L2 | N/A | [Explorer](https://optimistic.etherscan.io) |
+| [Base](https://base.org) | L2 | ETH | Ethereum optimistic rollup L2 by Coinbase | N/A | [Explorer](https://basescan.org) |
+| [zkSync Era](https://zksync.io) | L2 | ZK | Ethereum zk rollup L2 | N/A | [Explorer](https://explorer.zksync.io) |
+| [Starknet](https://starknet.io) | L2 | STRK | Ethereum zk rollup L2 with Cairo | N/A | [Explorer](https://starkscan.co) |
 
 ## Trading
 - Sources are listed per entry; order is not a ranking.
