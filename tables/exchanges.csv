@@ -1,1 +1,11 @@
 Name,Type(CEX),RegionNotes,KeyNotes,MetricSourceURL,SnapshotDate,OfficialURL
+Binance,CEX,Global,Global centralized exchange,https://www.coingecko.com/en/exchanges,2026-02-04,https://www.binance.com
+Coinbase,CEX,US,US-based centralized exchange,https://www.coingecko.com/en/exchanges,2026-02-04,https://www.coinbase.com
+OKX,CEX,Global,Centralized exchange and Web3 platform,https://www.coingecko.com/en/exchanges,2026-02-04,https://www.okx.com
+Kraken,CEX,US,US-based centralized exchange,https://www.coingecko.com/en/exchanges,2026-02-04,https://www.kraken.com
+Bybit,CEX,Global,Centralized exchange with derivatives focus,https://www.coingecko.com/en/exchanges,2026-02-04,https://www.bybit.com
+Bitstamp,CEX,EU,European centralized exchange,https://www.coingecko.com/en/exchanges,2026-02-04,https://www.bitstamp.net
+Upbit,CEX,Korea,South Korea-based exchange,https://www.coingecko.com/en/exchanges,2026-02-04,https://upbit.com
+Bitfinex,CEX,Global,Centralized exchange with margin trading,https://www.coingecko.com/en/exchanges,2026-02-04,https://www.bitfinex.com
+Gate.io,CEX,Global,Centralized exchange,https://www.coingecko.com/en/exchanges,2026-02-04,https://www.gate.io
+KuCoin,CEX,Global,Centralized exchange,https://www.coingecko.com/en/exchanges,2026-02-04,https://www.kucoin.com
