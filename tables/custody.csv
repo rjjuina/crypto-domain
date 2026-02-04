@@ -1,1 +1,7 @@
 Name,Model(Multi-sig/MPC/HSM),TargetUsers,KeyNotes,OfficialURL
+Coinbase Custody,HSM,Institutions,Institutional custody service with cold storage,https://www.coinbase.com/institutional/custody
+BitGo,Multi-sig,Institutions,Multi-sig custody and wallet platform,https://www.bitgo.com
+Fireblocks,MPC,Institutions,MPC-based custody and transfer network,https://www.fireblocks.com
+Anchorage Digital,HSM,Institutions,Digital asset custody and banking services,https://www.anchorage.com
+Copper,MPC,Institutions,MPC custody and settlement,https://copper.co
+Gemini Custody,HSM,Institutions,Institutional custody offering cold storage,https://www.gemini.com/custody
