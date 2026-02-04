@@ -137,9 +137,3 @@ title: Landscape
 | Solana | [Squads](https://squads.so) | Smart contract | Program-based multisig for Solana accounts | [Docs](https://docs.squads.so) |
 | TRON | [Account Permissions](https://tron.network) | Native permission | Native multi-signature permissions for TRON accounts | [Docs](https://developers.tron.network/docs/account-permission) |
 | Bitcoin | [PSBT + Script](https://bitcoin.org) | Script | Multi-signature via script policies and PSBT workflows | [Docs](https://github.com/bitcoin/bips/blob/master/bip-0174.mediawiki) |
-
-## Reading Path
-- Start with glossary (Glossary, 术语表) terms for L1/L2, rollup, wallet, stablecoin.
-- Review Chains and Trading, then use the tables above to explore categories.
-- Study Middleware and Stablecoins to understand infrastructure and money primitives.
-- Finish with custody and multi-sig sections as operational layers.

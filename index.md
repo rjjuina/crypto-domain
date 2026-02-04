@@ -43,7 +43,6 @@ flowchart TD
     Landscape --> Wallets[Wallets]
     Landscape --> Custody[Custody]
     Landscape --> Multisig[Multi-sig]
-    Landscape --> ReadingPath[Reading Path]
 
     Chains --> L1[L1]
     Chains --> L2[L2]
@@ -75,8 +74,6 @@ flowchart TD
     Multisig --> NativePermission[Native permission]
     Multisig --> Script[Script]
 
-    ReadingPath --> Glossary[Glossary]
-    ReadingPath --> Tables[Tables]
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
