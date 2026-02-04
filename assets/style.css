@@ -1,0 +1,41 @@
+:root {
+  --content-max-width: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0 16px;
+}
+
+main,
+.markdown-body,
+.container,
+.container-lg,
+.container-md,
+.page-content,
+.content,
+.wrapper {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+.table-wrap {
+  width: 100%;
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.mermaid {
+  width: 100%;
+  min-height: 420px;
+}
+
+.mermaid svg {
+  width: 100% !important;
+  max-width: 100% !important;
+  height: auto !important;
+}

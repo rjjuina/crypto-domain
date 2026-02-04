@@ -2,6 +2,8 @@
 title: Crypto Domain Knowledge
 ---
 
+<link rel="stylesheet" href="assets/style.css">
+
 # Crypto Domain Knowledge
 
 ## Overview
@@ -79,5 +81,16 @@ flowchart TD
 
 <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
 <script>
-  mermaid.initialize({ startOnLoad: true });
+  mermaid.initialize({
+    startOnLoad: true,
+    theme: "base",
+    flowchart: {
+      useMaxWidth: true,
+      nodeSpacing: 40,
+      rankSpacing: 60
+    },
+    themeVariables: {
+      fontSize: "16px"
+    }
+  });
 </script>

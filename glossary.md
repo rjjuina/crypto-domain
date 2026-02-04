@@ -2,8 +2,11 @@
 title: Glossary
 ---
 
+<link rel="stylesheet" href="assets/style.css">
+
 # Glossary
 
+<div class="table-wrap">
 <table>
   <colgroup>
     <col style="width:18%">
@@ -526,3 +529,4 @@ title: Glossary
     </tr>
   </tbody>
 </table>
+</div>
