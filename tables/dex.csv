@@ -1,1 +1,10 @@
 Name,Type(Spot/Perp),Chain,Ecosystem,KeyNotes,MetricSourceURL,SnapshotDate,OfficialURL
+Uniswap,Spot,Ethereum,EVM,AMM for ERC-20 swaps,https://defillama.com/dexs,2026-02-04,https://uniswap.org
+Curve,Spot,Ethereum,EVM,Stablecoin-focused AMM,https://defillama.com/dexs,2026-02-04,https://curve.fi
+Balancer,Spot,Ethereum,EVM,Weighted pools and index-style AMM,https://defillama.com/dexs,2026-02-04,https://balancer.fi
+PancakeSwap,Spot,BNB Chain,BNB Chain,AMM on BNB Chain,https://defillama.com/dexs,2026-02-04,https://pancakeswap.finance
+Raydium,Spot,Solana,Solana,AMM and liquidity on Solana,https://defillama.com/dexs,2026-02-04,https://raydium.io
+Orca,Spot,Solana,Solana,User-friendly AMM on Solana,https://defillama.com/dexs,2026-02-04,https://www.orca.so
+GMX,Perp,Arbitrum,Ethereum L2,Perp AMM with pooled liquidity,https://defillama.com/derivatives,2026-02-04,https://gmx.io
+dYdX,Perp,dYdX Chain,Cosmos,Orderbook perpetuals exchange,https://defillama.com/derivatives,2026-02-04,https://dydx.exchange
+Hyperliquid,Perp,Hyperliquid,Hyperliquid,Orderbook perpetuals exchange,https://defillama.com/derivatives,2026-02-04,https://hyperliquid.xyz
