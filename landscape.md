@@ -6,15 +6,19 @@
 - Table fields include Category, KeyNotes, and snapshot references for ongoing updates.
 
 ## Trading
-- Centralized exchange (CEX, 中心化交易所) list TBD in `tables/exchanges.csv`.
+- Centralized exchange (CEX, 中心化交易所) examples in `tables/exchanges.csv`: Binance, Coinbase, OKX, Kraken, Bybit.
 - Decentralized exchange (DEX, 去中心化交易所) spot AMMs in `tables/dex.csv`: Uniswap, Curve, Balancer, PancakeSwap, Raydium, Orca.
 - Perpetuals (Perp, 永续合约) DEXs in `tables/dex.csv`: GMX, dYdX, Hyperliquid.
 
 ## Data/Analytics
-- TODO(verify): Populate analytics and explorer tools | tables/security_tools.csv | Codex | due 2025-03-31
+- Research/analytics (研究/分析): Nansen, Dune, Token Terminal, DefiLlama.
+- Explorers (区块浏览器): Etherscan, Blockchair.
+- See `tables/security_tools.csv` for full list.
 
 ## Security/Compliance
-- TODO(verify): Add KYT/monitoring and security tooling | tables/security_tools.csv | Codex | due 2025-03-31
+- KYT/Compliance (合规监测): Chainalysis, TRM Labs, Elliptic.
+- Labeling/Intel (实体标注): Arkham.
+- See `tables/security_tools.csv` for full list.
 
 ## Middleware
 - Oracle (Oracle, 预言机): Chainlink.
@@ -28,10 +32,15 @@
 - See `tables/stablecoins.csv` for snapshot sources.
 
 ## Wallets
-- TODO(verify): Add software/hardware wallets | tables/wallets.csv | Codex | due 2025-03-31
+- Software wallets (软件): MetaMask, Trust Wallet, Coinbase Wallet, Phantom, Keplr.
+- Hardware wallets (硬件): Ledger, Trezor.
+- See `tables/wallets.csv` for full list.
 
 ## Custody
-- TODO(verify): Add custody providers and models | tables/custody.csv | Codex | due 2025-03-31
+- HSM custody (HSM): Coinbase Custody, Anchorage Digital, Gemini Custody.
+- MPC custody (MPC): Fireblocks, Copper.
+- Multi-sig custody (多签): BitGo.
+- See `tables/custody.csv` for full list.
 
 ## Multi-sig
 - Smart contract (智能合约) multisig: Safe on Ethereum, Squads on Solana.
