@@ -14,6 +14,9 @@ title: Crypto Domain Knowledge
 - Glossary: [glossary.md](glossary.md)
 
 ## Data Tables (Optional)
+<details>
+  <summary>Show CSV tables</summary>
+
 - [tables/chains.csv](tables/chains.csv)
 - [tables/exchanges.csv](tables/exchanges.csv)
 - [tables/dex.csv](tables/dex.csv)
@@ -23,9 +26,10 @@ title: Crypto Domain Knowledge
 - [tables/security_tools.csv](tables/security_tools.csv)
 - [tables/middleware.csv](tables/middleware.csv)
 - [tables/multisig.csv](tables/multisig.csv)
+</details>
 
 ## Diagram
-```mermaid
+<div class="mermaid">
 flowchart TD
     Landscape[Crypto Domain Landscape]
     Landscape --> Chains[Chains]
@@ -71,4 +75,9 @@ flowchart TD
 
     ReadingPath --> Glossary[Glossary]
     ReadingPath --> Tables[Tables]
-```
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+<script>
+  mermaid.initialize({ startOnLoad: true });
+</script>
