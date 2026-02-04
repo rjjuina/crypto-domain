@@ -5,23 +5,24 @@ title: Crypto Domain Knowledge
 # Crypto Domain Knowledge
 
 ## Overview
-- [landscape.md](landscape.md) provides the taxonomy and reading path.
-- [glossary.md](glossary.md) defines key terms with CN explanations and sources.
-- [tables/](tables/) contains CSV datasets referenced by the narrative.
+- Start with the narrative in [landscape.md](landscape.md).
+- Use [glossary.md](glossary.md) for term definitions and sources.
+- CSV tables are the data source used for updates (optional to view).
 
 ## Navigation
 - Landscape: [landscape.md](landscape.md)
 - Glossary: [glossary.md](glossary.md)
-- Tables:
-  - [tables/chains.csv](tables/chains.csv)
-  - [tables/exchanges.csv](tables/exchanges.csv)
-  - [tables/dex.csv](tables/dex.csv)
-  - [tables/stablecoins.csv](tables/stablecoins.csv)
-  - [tables/wallets.csv](tables/wallets.csv)
-  - [tables/custody.csv](tables/custody.csv)
-  - [tables/security_tools.csv](tables/security_tools.csv)
-  - [tables/middleware.csv](tables/middleware.csv)
-  - [tables/multisig.csv](tables/multisig.csv)
+
+## Data Tables (Optional)
+- [tables/chains.csv](tables/chains.csv)
+- [tables/exchanges.csv](tables/exchanges.csv)
+- [tables/dex.csv](tables/dex.csv)
+- [tables/stablecoins.csv](tables/stablecoins.csv)
+- [tables/wallets.csv](tables/wallets.csv)
+- [tables/custody.csv](tables/custody.csv)
+- [tables/security_tools.csv](tables/security_tools.csv)
+- [tables/middleware.csv](tables/middleware.csv)
+- [tables/multisig.csv](tables/multisig.csv)
 
 ## Diagram
 ```mermaid
