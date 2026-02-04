@@ -30,6 +30,7 @@ title: Landscape
 - Snapshot sources are listed per entry; order is not a ranking.
 
 ### CEX
+
 | Name | RegionNotes | KeyNotes | MetricSourceURL | SnapshotDate | OfficialURL |
 | --- | --- | --- | --- | --- | --- |
 | Binance | Global | Global centralized exchange | [Source](https://www.coingecko.com/en/exchanges) | 2026-02-04 | [Official](https://www.binance.com) |
@@ -44,6 +45,7 @@ title: Landscape
 | KuCoin | Global | Centralized exchange | [Source](https://www.coingecko.com/en/exchanges) | 2026-02-04 | [Official](https://www.kucoin.com) |
 
 ### DEX
+
 | Name | Type | Chain | Ecosystem | KeyNotes | MetricSourceURL | SnapshotDate | OfficialURL |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Uniswap | Spot | Ethereum | EVM | AMM for ERC-20 swaps | [Source](https://defillama.com/dexs) | 2026-02-04 | [Official](https://uniswap.org) |
@@ -57,6 +59,7 @@ title: Landscape
 | Hyperliquid | Perp | Hyperliquid | Hyperliquid | Orderbook perpetuals exchange | [Source](https://defillama.com/derivatives) | 2026-02-04 | [Official](https://hyperliquid.xyz) |
 
 ## Data/Analytics
+
 | Name | Type | KeyNotes | OfficialURL |
 | --- | --- | --- | --- |
 | Nansen | Research | On-chain analytics dashboards | [Official](https://www.nansen.ai) |
@@ -67,6 +70,7 @@ title: Landscape
 | Blockchair | Explorer | Multi-chain block explorer | [Official](https://blockchair.com) |
 
 ## Security/Compliance
+
 | Name | Type | KeyNotes | OfficialURL |
 | --- | --- | --- | --- |
 | Chainalysis | KYT | Blockchain compliance and transaction monitoring | [Official](https://www.chainalysis.com) |
@@ -75,6 +79,7 @@ title: Landscape
 | Arkham | Labeling | Entity labeling and intelligence platform | [Official](https://arkhamintelligence.com) |
 
 ## Middleware
+
 | Name | Type | KeyNotes | SecurityAssumptions | OfficialURL |
 | --- | --- | --- | --- | --- |
 | Chainlink | Oracle | Decentralized oracle network for data feeds | Relies on node operators and crypto-economic incentives | [Official](https://chain.link) |
@@ -96,6 +101,7 @@ title: Landscape
 | USDD | Synthetic | TRON DAO Reserve | TRON; Ethereum | Synthetic stablecoin for TRON ecosystem | [Source](https://defillama.com/stablecoins) | 2026-02-04 | [Official](https://usdd.io) |
 
 ## Wallets
+
 | Name | Type | PrimaryEcosystems | KeyNotes | OfficialURL |
 | --- | --- | --- | --- | --- |
 | MetaMask | Software | EVM | Browser/mobile wallet for EVM chains | [Official](https://metamask.io) |
@@ -110,6 +116,7 @@ title: Landscape
 | Exodus | Software | Multi-chain | Desktop and mobile wallet | [Official](https://www.exodus.com) |
 
 ## Custody
+
 | Name | Model | TargetUsers | KeyNotes | OfficialURL |
 | --- | --- | --- | --- | --- |
 | Coinbase Custody | HSM | Institutions | Institutional custody service with cold storage | [Official](https://www.coinbase.com/institutional/custody) |
@@ -120,6 +127,7 @@ title: Landscape
 | Gemini Custody | HSM | Institutions | Institutional custody offering cold storage | [Official](https://www.gemini.com/custody) |
 
 ## Multi-sig
+
 | Chain | MainSolution | Type | KeyNotes | OfficialURL | DocsURL |
 | --- | --- | --- | --- | --- | --- |
 | Ethereum | Safe | Smart contract | Smart contract multisig wallet used across EVM chains | [Official](https://safe.global) | [Docs](https://docs.safe.global) |

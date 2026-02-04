@@ -6,10 +6,10 @@ title: Glossary
 
 <table>
   <colgroup>
-    <col style="width:20%">
-    <col style="width:45%">
-    <col style="width:25%">
-    <col style="width:10%">
+    <col style="width:18%">
+    <col style="width:52%">
+    <col style="width:23%">
+    <col style="width:7%">
   </colgroup>
   <thead>
     <tr>
