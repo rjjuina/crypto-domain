@@ -1,1 +1,6 @@
 Name,Type(Oracle/Messaging/Bridge),KeyNotes,SecurityAssumptions,OfficialURL
+Chainlink,Oracle,Decentralized oracle network for data feeds,Relies on node operators and crypto-economic incentives,https://chain.link
+Chainlink CCIP,Messaging,Cross-chain messaging and token transfer protocol,Relies on Chainlink oracle network and risk management network,https://chain.link/ccip
+LayerZero,Messaging,Omnichain messaging protocol using oracle + relayer,Security depends on oracle and relayer configuration,https://layerzero.network
+Wormhole,Messaging,Cross-chain messaging bridge with guardian network,Security depends on guardian network quorum,https://wormhole.com
+Axelar,Messaging,Cross-chain messaging via validator network,Security depends on Axelar validator set,https://axelar.network
