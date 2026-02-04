@@ -1,1 +1,11 @@
 Name,Type(Software/Hardware),PrimaryEcosystems,KeyNotes,OfficialURL
+MetaMask,Software,EVM,Browser/mobile wallet for EVM chains,https://metamask.io
+Trust Wallet,Software,Multi-chain,Mobile wallet supporting multiple chains,https://trustwallet.com
+Coinbase Wallet,Software,Multi-chain,Self-custody wallet from Coinbase,https://www.coinbase.com/wallet
+Phantom,Software,Solana,Wallet for Solana ecosystem,https://phantom.app
+Keplr,Software,Cosmos,Wallet for IBC chains,https://www.keplr.app
+Rabby,Software,EVM,EVM wallet focused on security UX,https://rabby.io
+Ledger,Hardware,Multi-chain,Hardware wallet device,https://www.ledger.com
+Trezor,Hardware,Multi-chain,Hardware wallet device,https://trezor.io
+Safe Wallet,Software,EVM,Smart contract wallet interface for Safe,https://safe.global/wallet
+Exodus,Software,Multi-chain,Desktop and mobile wallet,https://www.exodus.com
