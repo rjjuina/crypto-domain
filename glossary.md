@@ -76,7 +76,7 @@
 | Data Availability | 数据可用性，确保数据可被获取 | Rollup 要素 | https://ethereum.org/en/developers/docs/data-availability/ |
 | MEV (Maximal Extractable Value) | 最大可提取价值，区块排序套利 | 交易影响 | https://ethereum.org/en/developers/docs/mev/ |
 | Gas Price | Gas 价格，单位 Gas 成本 | 费用参数 | https://ethereum.org/en/developers/docs/gas/ |
-| Block Explorer | 区块浏览器，查询链上交易和区块 | 见 Etherscan | https://ethereum.org/en/developers/docs/data-availability/ |
+| Block Explorer | 区块浏览器，查询链上交易和区块 | 见 Etherscan | https://ethereum.org/en/developers/docs/apis/#block-explorers |
 | Relayer | 中继者，跨链消息或交易转发 | 跨链组件 | https://layerzero.network/ |
 | IBC (Inter-Blockchain Communication) | 跨链通信协议，Cosmos 生态 | IBC 协议 | https://ibcprotocol.org/ |
 | Parachain | 平行链，接入 Polkadot 中继链 | Polkadot 架构 | https://wiki.polkadot.network/docs/learn-parachains |
