@@ -127,6 +127,14 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td>N/A</td>
     </tr>
     <tr>
+      <td><a href="https://dogecoin.com">Dogecoin</a></td>
+      <td>L1</td>
+      <td>DOGE</td>
+      <td>Meme</td>
+      <td>PoW meme coin; Litecoin fork with Scrypt</td>
+      <td>Billy Markus; Jackson Palmer</td>
+    </tr>
+    <tr>
       <td><a href="https://sui.io">Sui</a></td>
       <td>L1</td>
       <td>SUI</td>
@@ -563,6 +571,101 @@ Source: [DefiLlama Restaking](https://defillama.com/protocols/Restaking). Snapsh
       <td><a href="https://looksrare.org">LooksRare</a></td>
       <td>Ethereum</td>
       <td>Community-owned NFT marketplace</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+## Meme Coins
+<div class="table-wrap">
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Chain</th>
+      <th>KeyNotes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.pepe.vip">PEPE</a></td>
+      <td>Ethereum</td>
+      <td>Frog-themed meme token; no utility, pure memetic value</td>
+    </tr>
+    <tr>
+      <td><a href="https://shibatoken.com">SHIB</a></td>
+      <td>Ethereum</td>
+      <td>Dog-themed meme token; expanded to Shibarium L2</td>
+    </tr>
+    <tr>
+      <td><a href="https://wif.com">WIF</a></td>
+      <td>Solana</td>
+      <td>Dog-with-hat meme token on Solana</td>
+    </tr>
+    <tr>
+      <td><a href="https://bonkcoin.com">BONK</a></td>
+      <td>Solana</td>
+      <td>Solana community meme token</td>
+    </tr>
+    <tr>
+      <td><a href="https://floki.com">FLOKI</a></td>
+      <td>Multi-chain</td>
+      <td>Viking dog meme token with utility ambitions</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+## Identity
+<div class="table-wrap">
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Type</th>
+      <th>KeyNotes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://worldcoin.org">Worldcoin</a></td>
+      <td>Biometric ID</td>
+      <td>Iris-based identity verification; WLD token; founded by Sam Altman</td>
+    </tr>
+    <tr>
+      <td><a href="https://ens.domains">ENS</a></td>
+      <td>Naming</td>
+      <td>Ethereum Name Service; .eth domain names</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.lens.xyz">Lens Protocol</a></td>
+      <td>Social Graph</td>
+      <td>Decentralized social graph on Polygon</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.farcaster.xyz">Farcaster</a></td>
+      <td>Social</td>
+      <td>Decentralized social protocol with crypto-native identity</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+## Notable Projects
+<div class="table-wrap">
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Category</th>
+      <th>KeyNotes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.worldlibertyfinancial.com">World Liberty Financial</a></td>
+      <td>DeFi</td>
+      <td>DeFi protocol; WLFI governance token; Trump family affiliated</td>
     </tr>
   </tbody>
 </table>
