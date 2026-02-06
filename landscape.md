@@ -111,6 +111,54 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td>Illia Polosukhin</td>
     </tr>
     <tr>
+      <td><a href="https://z.cash">Zcash</a></td>
+      <td>L1</td>
+      <td>ZEC</td>
+      <td>Privacy</td>
+      <td>Privacy chain using zk-SNARKs; shielded transactions</td>
+      <td>Zooko Wilcox</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.getmonero.org">Monero</a></td>
+      <td>L1</td>
+      <td>XMR</td>
+      <td>Privacy</td>
+      <td>Privacy chain using ring signatures and stealth addresses</td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td><a href="https://sui.io">Sui</a></td>
+      <td>L1</td>
+      <td>SUI</td>
+      <td>General</td>
+      <td>Move-based chain with object-centric model</td>
+      <td>Evan Cheng</td>
+    </tr>
+    <tr>
+      <td><a href="https://aptoslabs.com">Aptos</a></td>
+      <td>L1</td>
+      <td>APT</td>
+      <td>General</td>
+      <td>Move-based chain from ex-Diem team</td>
+      <td>Mo Shaikh</td>
+    </tr>
+    <tr>
+      <td><a href="https://fantom.foundation">Fantom</a></td>
+      <td>L1</td>
+      <td>FTM</td>
+      <td>General</td>
+      <td>DAG-based EVM chain with Lachesis consensus</td>
+      <td>Andre Cronje</td>
+    </tr>
+    <tr>
+      <td><a href="https://hedera.com">Hedera</a></td>
+      <td>L1</td>
+      <td>HBAR</td>
+      <td>General</td>
+      <td>Hashgraph consensus; governed by council</td>
+      <td>Leemon Baird</td>
+    </tr>
+    <tr>
       <td><a href="https://arbitrum.io">Arbitrum</a></td>
       <td>L2</td>
       <td>ARB</td>
@@ -298,6 +346,224 @@ Sources: [CoinGecko](https://www.coingecko.com/en/exchanges) for CEX, [DefiLlama
       <td>Hyperliquid</td>
       <td>Orderbook perpetuals exchange</td>
     </tr>
+    <tr>
+      <td><a href="https://1inch.io">1inch</a></td>
+      <td>Aggregator</td>
+      <td>Multi-chain</td>
+      <td>EVM</td>
+      <td>DEX aggregator routing across multiple sources</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.paraswap.io">ParaSwap</a></td>
+      <td>Aggregator</td>
+      <td>Multi-chain</td>
+      <td>EVM</td>
+      <td>DEX aggregator with MEV protection</td>
+    </tr>
+    <tr>
+      <td><a href="https://jup.ag">Jupiter</a></td>
+      <td>Aggregator</td>
+      <td>Solana</td>
+      <td>Solana</td>
+      <td>Leading Solana DEX aggregator</td>
+    </tr>
+    <tr>
+      <td><a href="https://cow.fi">CoW Swap</a></td>
+      <td>Aggregator</td>
+      <td>Ethereum</td>
+      <td>EVM</td>
+      <td>Intent-based DEX with batch auctions; MEV protection</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+## DeFi Lending
+Source: [DefiLlama Lending](https://defillama.com/protocols/Lending). Snapshot: 2026-02-04. Order is not a ranking.
+
+<div class="table-wrap">
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Type</th>
+      <th>Chain</th>
+      <th>KeyNotes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://aave.com">Aave</a></td>
+      <td>Money Market</td>
+      <td>Multi-chain</td>
+      <td>Largest lending protocol; variable and stable rates</td>
+    </tr>
+    <tr>
+      <td><a href="https://compound.finance">Compound</a></td>
+      <td>Money Market</td>
+      <td>Ethereum</td>
+      <td>Algorithmic money market protocol</td>
+    </tr>
+    <tr>
+      <td><a href="https://makerdao.com">MakerDAO</a></td>
+      <td>CDP</td>
+      <td>Ethereum</td>
+      <td>Collateralized debt positions; issues DAI</td>
+    </tr>
+    <tr>
+      <td><a href="https://morpho.org">Morpho</a></td>
+      <td>Optimizer</td>
+      <td>Ethereum</td>
+      <td>Peer-to-peer lending layer on top of Aave/Compound</td>
+    </tr>
+    <tr>
+      <td><a href="https://spark.fi">Spark</a></td>
+      <td>Money Market</td>
+      <td>Ethereum</td>
+      <td>MakerDAO-affiliated lending protocol</td>
+    </tr>
+    <tr>
+      <td><a href="https://benqi.fi">Benqi</a></td>
+      <td>Money Market</td>
+      <td>Avalanche</td>
+      <td>Lending and liquid staking on Avalanche</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+## Liquid Staking
+Source: [DefiLlama Liquid Staking](https://defillama.com/protocols/Liquid%20Staking). Snapshot: 2026-02-04. Order is not a ranking.
+
+<div class="table-wrap">
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Chain</th>
+      <th>Token</th>
+      <th>KeyNotes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://lido.fi">Lido</a></td>
+      <td>Ethereum</td>
+      <td>stETH</td>
+      <td>Largest liquid staking protocol; rebasing token</td>
+    </tr>
+    <tr>
+      <td><a href="https://rocketpool.net">Rocket Pool</a></td>
+      <td>Ethereum</td>
+      <td>rETH</td>
+      <td>Decentralized node operator network</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.frax.finance">Frax Ether</a></td>
+      <td>Ethereum</td>
+      <td>sfrxETH</td>
+      <td>Dual-token liquid staking model</td>
+    </tr>
+    <tr>
+      <td><a href="https://jito.network">Jito</a></td>
+      <td>Solana</td>
+      <td>JitoSOL</td>
+      <td>Solana liquid staking with MEV rewards</td>
+    </tr>
+    <tr>
+      <td><a href="https://marinade.finance">Marinade</a></td>
+      <td>Solana</td>
+      <td>mSOL</td>
+      <td>Largest Solana liquid staking protocol</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.coinbase.com/cbeth">Coinbase Wrapped Staked ETH</a></td>
+      <td>Ethereum</td>
+      <td>cbETH</td>
+      <td>Centralized liquid staking from Coinbase</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+## Restaking
+Source: [DefiLlama Restaking](https://defillama.com/protocols/Restaking). Snapshot: 2026-02-04. Order is not a ranking.
+
+<div class="table-wrap">
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Chain</th>
+      <th>KeyNotes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.eigenlayer.xyz">EigenLayer</a></td>
+      <td>Ethereum</td>
+      <td>Restaking protocol for ETH and LSTs; secures AVS</td>
+    </tr>
+    <tr>
+      <td><a href="https://symbiotic.fi">Symbiotic</a></td>
+      <td>Ethereum</td>
+      <td>Modular restaking with flexible collateral</td>
+    </tr>
+    <tr>
+      <td><a href="https://karak.network">Karak</a></td>
+      <td>Multi-chain</td>
+      <td>Multi-asset restaking protocol</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.etherfi.com">ether.fi</a></td>
+      <td>Ethereum</td>
+      <td>Liquid restaking protocol; issues eETH</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.renzo.xyz">Renzo</a></td>
+      <td>Ethereum</td>
+      <td>Liquid restaking protocol; issues ezETH</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+## NFT Marketplaces
+<div class="table-wrap">
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Chain</th>
+      <th>KeyNotes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://opensea.io">OpenSea</a></td>
+      <td>Multi-chain</td>
+      <td>Largest NFT marketplace by volume</td>
+    </tr>
+    <tr>
+      <td><a href="https://blur.io">Blur</a></td>
+      <td>Ethereum</td>
+      <td>Pro trader NFT marketplace with aggregation</td>
+    </tr>
+    <tr>
+      <td><a href="https://magiceden.io">Magic Eden</a></td>
+      <td>Multi-chain</td>
+      <td>Leading Solana NFT marketplace; expanded to Bitcoin</td>
+    </tr>
+    <tr>
+      <td><a href="https://tensor.trade">Tensor</a></td>
+      <td>Solana</td>
+      <td>Solana NFT marketplace with trading tools</td>
+    </tr>
+    <tr>
+      <td><a href="https://looksrare.org">LooksRare</a></td>
+      <td>Ethereum</td>
+      <td>Community-owned NFT marketplace</td>
+    </tr>
   </tbody>
 </table>
 </div>
@@ -378,6 +644,48 @@ Sources: [CoinGecko](https://www.coingecko.com/en/exchanges) for CEX, [DefiLlama
       <td>Labeling</td>
       <td>Entity labeling and intelligence platform</td>
     </tr>
+    <tr>
+      <td><a href="https://www.trailofbits.com">Trail of Bits</a></td>
+      <td>Audit</td>
+      <td>Security research and smart contract auditing</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.openzeppelin.com">OpenZeppelin</a></td>
+      <td>Audit</td>
+      <td>Smart contract audits and security tooling</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.certora.com">Certora</a></td>
+      <td>Audit</td>
+      <td>Formal verification for smart contracts</td>
+    </tr>
+    <tr>
+      <td><a href="https://spearbit.com">Spearbit</a></td>
+      <td>Audit</td>
+      <td>Distributed security review network</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+## Privacy
+<div class="table-wrap">
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Type</th>
+      <th>Chain</th>
+      <th>KeyNotes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://tornadocash.eth.limo">Tornado Cash</a></td>
+      <td>Mixer</td>
+      <td>Ethereum</td>
+      <td>zk-SNARK mixer for transaction privacy; OFAC-sanctioned (2022)</td>
+    </tr>
   </tbody>
 </table>
 </div>
@@ -423,6 +731,12 @@ Sources: [CoinGecko](https://www.coingecko.com/en/exchanges) for CEX, [DefiLlama
       <td>Messaging</td>
       <td>Cross-chain messaging via validator network</td>
       <td>Security depends on Axelar validator set</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.hyperlane.xyz">Hyperlane</a></td>
+      <td>Messaging</td>
+      <td>Permissionless cross-chain messaging; customizable security modules</td>
+      <td>Security depends on configured Interchain Security Modules (ISMs)</td>
     </tr>
   </tbody>
 </table>
@@ -560,6 +874,24 @@ Source: [DefiLlama Stablecoins](https://defillama.com/stablecoins). Snapshot: 20
       <td>Software</td>
       <td>Multi-chain</td>
       <td>Desktop and mobile wallet</td>
+    </tr>
+    <tr>
+      <td><a href="https://rainbow.me">Rainbow</a></td>
+      <td>Software</td>
+      <td>EVM</td>
+      <td>Mobile-first Ethereum wallet</td>
+    </tr>
+    <tr>
+      <td><a href="https://frame.sh">Frame</a></td>
+      <td>Software</td>
+      <td>EVM</td>
+      <td>Desktop wallet with hardware wallet focus</td>
+    </tr>
+    <tr>
+      <td><a href="https://backpack.app">Backpack</a></td>
+      <td>Software</td>
+      <td>Solana</td>
+      <td>Solana wallet with xNFT support</td>
     </tr>
   </tbody>
 </table>

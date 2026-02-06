@@ -527,6 +527,48 @@ title: Glossary
       <td>合规基础</td>
       <td><a href="https://www.finra.org/investors/insights/know-your-customer">Source</a></td>
     </tr>
+    <tr>
+      <td>Liquid Staking Token (LST)</td>
+      <td>流动性质押代币，质押资产的流动性凭证</td>
+      <td>如 stETH, rETH</td>
+      <td><a href="https://ethereum.org/en/staking/pools/">Source</a></td>
+    </tr>
+    <tr>
+      <td>Restaking</td>
+      <td>再质押，将已质押资产重复用于其他协议安全</td>
+      <td>EigenLayer 概念</td>
+      <td><a href="https://docs.eigenlayer.xyz/">Source</a></td>
+    </tr>
+    <tr>
+      <td>Liquid Restaking Token (LRT)</td>
+      <td>流动性再质押代币，再质押资产的流动性凭证</td>
+      <td>如 eETH, ezETH</td>
+      <td><a href="https://docs.eigenlayer.xyz/">Source</a></td>
+    </tr>
+    <tr>
+      <td>Account Abstraction</td>
+      <td>账户抽象，将钱包升级为智能合约账户</td>
+      <td>ERC-4337</td>
+      <td><a href="https://ethereum.org/en/roadmap/account-abstraction/">Source</a></td>
+    </tr>
+    <tr>
+      <td>Intent-based Trading</td>
+      <td>意图交易，用户表达交易意图由求解器执行</td>
+      <td>如 CoW Swap</td>
+      <td><a href="https://docs.cow.fi/cow-protocol/concepts/introduction">Source</a></td>
+    </tr>
+    <tr>
+      <td>Modular Blockchain</td>
+      <td>模块化区块链，将执行、共识、数据可用性分层</td>
+      <td>Celestia 概念</td>
+      <td><a href="https://celestia.org/learn/">Source</a></td>
+    </tr>
+    <tr>
+      <td>Data Availability (DA)</td>
+      <td>数据可用性，确保交易数据可被验证</td>
+      <td>Rollup 关键层</td>
+      <td><a href="https://ethereum.org/en/developers/docs/data-availability/">Source</a></td>
+    </tr>
   </tbody>
 </table>
 </div>
