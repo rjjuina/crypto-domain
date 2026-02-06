@@ -6,13 +6,13 @@ title: Glossary
 
 # Glossary
 
-<div class="table-wrap">
+<div class="table-wrap glossary-table">
 <table>
   <colgroup>
     <col style="width:18%">
-    <col style="width:52%">
-    <col style="width:23%">
-    <col style="width:7%">
+    <col style="width:58%">
+    <col style="width:19%">
+    <col style="width:5%">
   </colgroup>
   <thead>
     <tr>
