@@ -7,7 +7,7 @@ title: Landscape
 # Crypto Domain Landscape
 
 ## Chains
-- Snapshot sources are listed per entry; order is not a ranking.
+Snapshot sources are listed per entry; order is not a ranking.
 
 <div class="table-wrap">
 <table>
@@ -206,7 +206,7 @@ title: Landscape
 </div>
 
 ## Trading
-- Snapshot sources are listed per entry; order is not a ranking.
+Snapshot sources are listed per entry; order is not a ranking.
 
 ### CEX
 <div class="table-wrap">
@@ -561,7 +561,7 @@ title: Landscape
 </div>
 
 ## Stablecoins
-- Snapshot sources are listed per entry; order is not a ranking.
+Snapshot sources are listed per entry; order is not a ranking.
 
 <div class="table-wrap">
 <table>
