@@ -902,6 +902,13 @@ Source: [DefiLlama Stablecoins](https://defillama.com/stablecoins). Snapshot: 20
       <td>TRON; Ethereum</td>
       <td>Synthetic stablecoin for TRON ecosystem</td>
     </tr>
+    <tr>
+      <td><a href="https://worldlibertyfinancial.com/usd1">USD1</a></td>
+      <td>Fiat-backed</td>
+      <td>World Liberty Financial</td>
+      <td>Ethereum</td>
+      <td>Fiat-backed stablecoin; BitGo custody; Trump family affiliated</td>
+    </tr>
   </tbody>
 </table>
 </div>
@@ -1097,8 +1104,3 @@ Source: [DefiLlama Stablecoins](https://defillama.com/stablecoins). Snapshot: 20
 </table>
 </div>
 
-## Reading Path
-- Start with glossary (Glossary, 术语表) terms for L1/L2, rollup, wallet, stablecoin.
-- Review Chains and Trading, then use the tables above to explore categories.
-- Study Middleware and Stablecoins to understand infrastructure and money primitives.
-- Finish with custody and multi-sig sections as operational layers.
