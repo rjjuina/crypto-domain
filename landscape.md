@@ -28,7 +28,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td>BTC</td>
       <td>Payments</td>
       <td>PoW UTXO chain focused on payments</td>
-      <td>Satoshi Nakamoto</td>
+      <td><a href="https://en.wikipedia.org/wiki/Satoshi_Nakamoto">Satoshi Nakamoto</a></td>
     </tr>
     <tr>
       <td><a href="https://ethereum.org">Ethereum</a></td>
@@ -36,7 +36,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td>ETH</td>
       <td>General</td>
       <td>General-purpose smart contract platform; EVM</td>
-      <td>Vitalik Buterin</td>
+      <td><a href="https://en.wikipedia.org/wiki/Vitalik_Buterin">Vitalik Buterin</a></td>
     </tr>
     <tr>
       <td><a href="https://www.bnbchain.org">BNB Chain</a></td>
@@ -44,7 +44,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td>BNB</td>
       <td>General</td>
       <td>EVM-compatible smart contract chain</td>
-      <td>Changpeng Zhao</td>
+      <td><a href="https://en.wikipedia.org/wiki/Changpeng_Zhao">Changpeng Zhao</a></td>
     </tr>
     <tr>
       <td><a href="https://solana.com">Solana</a></td>
@@ -52,7 +52,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td>SOL</td>
       <td>General</td>
       <td>High-throughput PoS chain; Rust programs</td>
-      <td>Anatoly Yakovenko</td>
+      <td><a href="https://en.wikipedia.org/wiki/Anatoly_Yakovenko">Anatoly Yakovenko</a></td>
     </tr>
     <tr>
       <td><a href="https://cardano.org">Cardano</a></td>
@@ -60,7 +60,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td>ADA</td>
       <td>General</td>
       <td>PoS chain using UTXO model</td>
-      <td>Charles Hoskinson</td>
+      <td><a href="https://en.wikipedia.org/wiki/Charles_Hoskinson">Charles Hoskinson</a></td>
     </tr>
     <tr>
       <td><a href="https://www.avax.network">Avalanche</a></td>
@@ -68,7 +68,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td>AVAX</td>
       <td>General</td>
       <td>Subnet-based PoS platform; EVM C-Chain</td>
-      <td>Emin Gün Sirer</td>
+      <td><a href="https://en.wikipedia.org/wiki/Emin_G%C3%BCn_Sirer">Emin Gün Sirer</a></td>
     </tr>
     <tr>
       <td><a href="https://polygon.technology">Polygon</a></td>
@@ -76,7 +76,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td>MATIC</td>
       <td>General</td>
       <td>EVM scaling ecosystem; PoS chain</td>
-      <td>Sandeep Nailwal</td>
+      <td><a href="https://en.wikipedia.org/wiki/Sandeep_Nailwal">Sandeep Nailwal</a></td>
     </tr>
     <tr>
       <td><a href="https://tron.network">TRON</a></td>
@@ -84,7 +84,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td>TRX</td>
       <td>Payments</td>
       <td>EVM-like chain focused on payments</td>
-      <td>Justin Sun</td>
+      <td><a href="https://en.wikipedia.org/wiki/Justin_Sun">Justin Sun</a></td>
     </tr>
     <tr>
       <td><a href="https://cosmos.network">Cosmos</a></td>
@@ -92,7 +92,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td>ATOM</td>
       <td>General</td>
       <td>IBC-based ecosystem; Cosmos SDK</td>
-      <td>Jae Kwon</td>
+      <td><a href="https://x.com/jaaboris">Jae Kwon</a></td>
     </tr>
     <tr>
       <td><a href="https://polkadot.network">Polkadot</a></td>
@@ -100,7 +100,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td>DOT</td>
       <td>General</td>
       <td>Relay chain with parachains; Substrate</td>
-      <td>Gavin Wood</td>
+      <td><a href="https://en.wikipedia.org/wiki/Gavin_Wood">Gavin Wood</a></td>
     </tr>
     <tr>
       <td><a href="https://near.org">NEAR</a></td>
@@ -108,7 +108,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td>NEAR</td>
       <td>General</td>
       <td>Sharded PoS chain; account model</td>
-      <td>Illia Polosukhin</td>
+      <td><a href="https://en.wikipedia.org/wiki/Illia_Polosukhin">Illia Polosukhin</a></td>
     </tr>
     <tr>
       <td><a href="https://z.cash">Zcash</a></td>
@@ -116,7 +116,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td>ZEC</td>
       <td>Privacy</td>
       <td>Privacy chain using zk-SNARKs; shielded transactions</td>
-      <td>Zooko Wilcox</td>
+      <td><a href="https://en.wikipedia.org/wiki/Zooko_Wilcox-O%27Hearn">Zooko Wilcox</a></td>
     </tr>
     <tr>
       <td><a href="https://www.getmonero.org">Monero</a></td>
@@ -132,7 +132,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td>DOGE</td>
       <td>Meme</td>
       <td>PoW meme coin; Litecoin fork with Scrypt</td>
-      <td>Billy Markus; Jackson Palmer</td>
+      <td><a href="https://x.com/BillyM2k">Billy Markus</a>; <a href="https://en.wikipedia.org/wiki/Jackson_Palmer">Jackson Palmer</a></td>
     </tr>
     <tr>
       <td><a href="https://sui.io">Sui</a></td>
@@ -140,7 +140,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td>SUI</td>
       <td>General</td>
       <td>Move-based chain with object-centric model</td>
-      <td>Evan Cheng</td>
+      <td><a href="https://www.linkedin.com/in/evancheng">Evan Cheng</a></td>
     </tr>
     <tr>
       <td><a href="https://aptoslabs.com">Aptos</a></td>
@@ -148,7 +148,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td>APT</td>
       <td>General</td>
       <td>Move-based chain from ex-Diem team</td>
-      <td>Mo Shaikh</td>
+      <td><a href="https://www.linkedin.com/in/moashaikh">Mo Shaikh</a></td>
     </tr>
     <tr>
       <td><a href="https://fantom.foundation">Fantom</a></td>
@@ -156,7 +156,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td>FTM</td>
       <td>General</td>
       <td>DAG-based EVM chain with Lachesis consensus</td>
-      <td>Andre Cronje</td>
+      <td><a href="https://x.com/AndreCronjeTech">Andre Cronje</a></td>
     </tr>
     <tr>
       <td><a href="https://hedera.com">Hedera</a></td>
@@ -164,7 +164,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td>HBAR</td>
       <td>General</td>
       <td>Hashgraph consensus; governed by council</td>
-      <td>Leemon Baird</td>
+      <td><a href="https://en.wikipedia.org/wiki/Leemon_Baird">Leemon Baird</a></td>
     </tr>
     <tr>
       <td><a href="https://arbitrum.io">Arbitrum</a></td>
