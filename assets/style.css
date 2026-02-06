@@ -22,6 +22,11 @@ main,
 .table-wrap {
   width: 100%;
   overflow-x: auto;
+  max-width: 100%;
+}
+
+.table-wrap table {
+  width: 100% !important;
 }
 
 .glossary-table table {
