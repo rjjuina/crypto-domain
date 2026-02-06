@@ -722,6 +722,31 @@ Source: [DefiLlama Restaking](https://defillama.com/protocols/Restaking). Snapsh
       <td>Research</td>
       <td>On-chain whale and smart money tracking</td>
     </tr>
+    <tr>
+      <td><a href="https://glassnode.com">Glassnode</a></td>
+      <td>On-chain</td>
+      <td>BTC/ETH on-chain indicators; market cycles and sentiment</td>
+    </tr>
+    <tr>
+      <td><a href="https://cryptoquant.com">CryptoQuant</a></td>
+      <td>On-chain</td>
+      <td>Exchange flows, derivatives data, whale tracking</td>
+    </tr>
+    <tr>
+      <td><a href="https://messari.io">Messari</a></td>
+      <td>Research</td>
+      <td>Protocol fundamentals, governance, market intelligence</td>
+    </tr>
+    <tr>
+      <td><a href="https://santiment.net">Santiment</a></td>
+      <td>Sentiment</td>
+      <td>On-chain and social sentiment analytics</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.intotheblock.com">IntoTheBlock</a></td>
+      <td>AI Analytics</td>
+      <td>AI-driven on-chain signals and metrics</td>
+    </tr>
   </tbody>
 </table>
 </div>
