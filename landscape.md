@@ -712,6 +712,16 @@ Source: [DefiLlama Restaking](https://defillama.com/protocols/Restaking). Snapsh
       <td>Explorer</td>
       <td>Multi-chain block explorer</td>
     </tr>
+    <tr>
+      <td><a href="https://www.coinglass.com">Coinglass</a></td>
+      <td>Derivatives</td>
+      <td>Derivatives data; funding rates, liquidations, open interest</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.lookonchain.com">Lookonchain</a></td>
+      <td>Research</td>
+      <td>On-chain whale and smart money tracking</td>
+    </tr>
   </tbody>
 </table>
 </div>
