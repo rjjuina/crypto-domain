@@ -1,5 +1,5 @@
-Chain,MainSolution,Type(Smart contract/Native permission/Script/MPC),KeyNotes,OfficialURL,DocsURL
-Ethereum,Safe,Smart contract,Smart contract multisig wallet used across EVM chains,https://safe.global,https://docs.safe.global
-Solana,Squads,Smart contract,Program-based multisig for Solana accounts,https://squads.so,https://docs.squads.so
-TRON,Account Permissions,Native permission,Native multi-signature permissions for TRON accounts,https://tron.network,https://developers.tron.network/docs/account-permission
-Bitcoin,PSBT + Script,Script,Multi-signature via script policies and PSBT workflows,https://bitcoin.org,https://github.com/bitcoin/bips/blob/master/bip-0174.mediawiki
+Chain,MainSolution,Founded,Type(Smart contract/Native permission/Script/MPC),KeyNotes,OfficialURL,DocsURL
+Ethereum,Safe,2018-05,Smart contract,Smart contract multisig wallet used across EVM chains,https://safe.global,https://docs.safe.global
+Solana,Squads,2022-01,Smart contract,Program-based multisig for Solana accounts,https://squads.so,https://docs.squads.so
+TRON,Account Permissions,2018-06,Native permission,Native multi-signature permissions for TRON accounts,https://tron.network,https://developers.tron.network/docs/account-permission
+Bitcoin,PSBT + Script,2009-01,Script,Multi-signature via script policies and PSBT workflows,https://bitcoin.org,https://github.com/bitcoin/bips/blob/master/bip-0174.mediawiki

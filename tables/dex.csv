@@ -1,10 +1,10 @@
-Name,Type(Spot/Perp),Chain,Ecosystem,KeyNotes,MetricSourceURL,SnapshotDate,OfficialURL
-Uniswap,Spot,Ethereum,EVM,AMM for ERC-20 swaps,https://defillama.com/dexs,2026-02-04,https://uniswap.org
-Curve,Spot,Ethereum,EVM,Stablecoin-focused AMM,https://defillama.com/dexs,2026-02-04,https://curve.fi
-Balancer,Spot,Ethereum,EVM,Weighted pools and index-style AMM,https://defillama.com/dexs,2026-02-04,https://balancer.fi
-PancakeSwap,Spot,BNB Chain,BNB Chain,AMM on BNB Chain,https://defillama.com/dexs,2026-02-04,https://pancakeswap.finance
-Raydium,Spot,Solana,Solana,AMM and liquidity on Solana,https://defillama.com/dexs,2026-02-04,https://raydium.io
-Orca,Spot,Solana,Solana,User-friendly AMM on Solana,https://defillama.com/dexs,2026-02-04,https://www.orca.so
-GMX,Perp,Arbitrum,Ethereum L2,Perp AMM with pooled liquidity,https://defillama.com/derivatives,2026-02-04,https://gmx.io
-dYdX,Perp,dYdX Chain,Cosmos,Orderbook perpetuals exchange,https://defillama.com/derivatives,2026-02-04,https://dydx.exchange
-Hyperliquid,Perp,Hyperliquid,Hyperliquid,Orderbook perpetuals exchange,https://defillama.com/derivatives,2026-02-04,https://hyperliquid.xyz
+Name,Founded,Type(Spot/Perp),Chain,Ecosystem,KeyNotes,MetricSourceURL,SnapshotDate,OfficialURL
+Uniswap,2018-11,Spot,Ethereum,EVM,AMM for ERC-20 swaps,https://defillama.com/dexs,2026-02-04,https://uniswap.org
+Curve,2020-01,Spot,Ethereum,EVM,Stablecoin-focused AMM,https://defillama.com/dexs,2026-02-04,https://curve.fi
+Balancer,2020-03,Spot,Ethereum,EVM,Weighted pools and index-style AMM,https://defillama.com/dexs,2026-02-04,https://balancer.fi
+PancakeSwap,2020-09,Spot,BNB Chain,BNB Chain,AMM on BNB Chain,https://defillama.com/dexs,2026-02-04,https://pancakeswap.finance
+Raydium,2021-02,Spot,Solana,Solana,AMM and liquidity on Solana,https://defillama.com/dexs,2026-02-04,https://raydium.io
+Orca,2021-02,Spot,Solana,Solana,User-friendly AMM on Solana,https://defillama.com/dexs,2026-02-04,https://www.orca.so
+GMX,2021-09,Perp,Arbitrum,Ethereum L2,Perp AMM with pooled liquidity,https://defillama.com/derivatives,2026-02-04,https://gmx.io
+dYdX,2019-04,Perp,dYdX Chain,Cosmos,Orderbook perpetuals exchange,https://defillama.com/derivatives,2026-02-04,https://dydx.exchange
+Hyperliquid,2023-06,Perp,Hyperliquid,Hyperliquid,Orderbook perpetuals exchange,https://defillama.com/derivatives,2026-02-04,https://hyperliquid.xyz

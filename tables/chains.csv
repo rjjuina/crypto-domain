@@ -1,17 +1,17 @@
-Name,Layer(L1/L2),NativeAsset,Category(General/DeFi/Payments/etc),KeyNotes,Figurehead(public),MetricSourceURL,SnapshotDate,OfficialURL
-Bitcoin,L1,BTC,Payments,PoW UTXO chain focused on payments,Satoshi Nakamoto,https://defillama.com/chains,2026-02-04,https://bitcoin.org
-Ethereum,L1,ETH,General,General-purpose smart contract platform; EVM,Vitalik Buterin,https://defillama.com/chains,2026-02-04,https://ethereum.org
-BNB Chain,L1,BNB,General,EVM-compatible smart contract chain,Changpeng Zhao,https://defillama.com/chains,2026-02-04,https://www.bnbchain.org
-Solana,L1,SOL,General,High-throughput PoS chain; Rust programs,Anatoly Yakovenko,https://defillama.com/chains,2026-02-04,https://solana.com
-Cardano,L1,ADA,General,PoS chain using UTXO model,Charles Hoskinson,https://defillama.com/chains,2026-02-04,https://cardano.org
-Avalanche,L1,AVAX,General,Subnet-based PoS platform; EVM C-Chain,Emin Gün Sirer,https://defillama.com/chains,2026-02-04,https://www.avax.network
-Polygon,L1,MATIC,General,EVM scaling ecosystem; PoS chain,Sandeep Nailwal,https://defillama.com/chains,2026-02-04,https://polygon.technology
-TRON,L1,TRX,Payments,EVM-like chain focused on payments,Justin Sun,https://defillama.com/chains,2026-02-04,https://tron.network
-Cosmos,L1,ATOM,General,IBC-based ecosystem; Cosmos SDK,Jae Kwon,https://defillama.com/chains,2026-02-04,https://cosmos.network
-Polkadot,L1,DOT,General,Relay chain with parachains; Substrate,Gavin Wood,https://defillama.com/chains,2026-02-04,https://polkadot.network
-NEAR,L1,NEAR,General,Sharded PoS chain; account model,Illia Polosukhin,https://defillama.com/chains,2026-02-04,https://near.org
-Arbitrum,L2,ARB,General,Ethereum optimistic rollup L2,N/A,https://l2beat.com/scaling/summary,2026-02-04,https://arbitrum.io
-Optimism,L2,OP,General,Ethereum optimistic rollup L2,N/A,https://l2beat.com/scaling/summary,2026-02-04,https://optimism.io
-Base,L2,ETH,General,Ethereum optimistic rollup L2 by Coinbase,N/A,https://l2beat.com/scaling/summary,2026-02-04,https://base.org
-zkSync Era,L2,ZK,General,Ethereum zk rollup L2,N/A,https://l2beat.com/scaling/summary,2026-02-04,https://zksync.io
-Starknet,L2,STRK,General,Ethereum zk rollup L2 with Cairo,N/A,https://l2beat.com/scaling/summary,2026-02-04,https://starknet.io
+Name,Founded,Layer(L1/L2),NativeAsset,Category(General/DeFi/Payments/etc),KeyNotes,Figurehead(public),MetricSourceURL,SnapshotDate,OfficialURL
+Bitcoin,2009-01,L1,BTC,Payments,PoW UTXO chain focused on payments,Satoshi Nakamoto,https://defillama.com/chains,2026-02-04,https://bitcoin.org
+Ethereum,2015-07,L1,ETH,General,General-purpose smart contract platform; EVM,Vitalik Buterin,https://defillama.com/chains,2026-02-04,https://ethereum.org
+BNB Chain,2020-09,L1,BNB,General,EVM-compatible smart contract chain,Changpeng Zhao,https://defillama.com/chains,2026-02-04,https://www.bnbchain.org
+Solana,2020-03,L1,SOL,General,High-throughput PoS chain; Rust programs,Anatoly Yakovenko,https://defillama.com/chains,2026-02-04,https://solana.com
+Cardano,2017-09,L1,ADA,General,PoS chain using UTXO model,Charles Hoskinson,https://defillama.com/chains,2026-02-04,https://cardano.org
+Avalanche,2020-09,L1,AVAX,General,Subnet-based PoS platform; EVM C-Chain,Emin Gün Sirer,https://defillama.com/chains,2026-02-04,https://www.avax.network
+Polygon,2020-06,L1,MATIC,General,EVM scaling ecosystem; PoS chain,Sandeep Nailwal,https://defillama.com/chains,2026-02-04,https://polygon.technology
+TRON,2018-06,L1,TRX,Payments,EVM-like chain focused on payments,Justin Sun,https://defillama.com/chains,2026-02-04,https://tron.network
+Cosmos,2019-03,L1,ATOM,General,IBC-based ecosystem; Cosmos SDK,Jae Kwon,https://defillama.com/chains,2026-02-04,https://cosmos.network
+Polkadot,2020-05,L1,DOT,General,Relay chain with parachains; Substrate,Gavin Wood,https://defillama.com/chains,2026-02-04,https://polkadot.network
+NEAR,2020-10,L1,NEAR,General,Sharded PoS chain; account model,Illia Polosukhin,https://defillama.com/chains,2026-02-04,https://near.org
+Arbitrum,2021-08,L2,ARB,General,Ethereum optimistic rollup L2,N/A,https://l2beat.com/scaling/summary,2026-02-04,https://arbitrum.io
+Optimism,2021-12,L2,OP,General,Ethereum optimistic rollup L2,N/A,https://l2beat.com/scaling/summary,2026-02-04,https://optimism.io
+Base,2023-08,L2,ETH,General,Ethereum optimistic rollup L2 by Coinbase,N/A,https://l2beat.com/scaling/summary,2026-02-04,https://base.org
+zkSync Era,2023-03,L2,ZK,General,Ethereum zk rollup L2,N/A,https://l2beat.com/scaling/summary,2026-02-04,https://zksync.io
+Starknet,2023-11,L2,STRK,General,Ethereum zk rollup L2 with Cairo,N/A,https://l2beat.com/scaling/summary,2026-02-04,https://starknet.io

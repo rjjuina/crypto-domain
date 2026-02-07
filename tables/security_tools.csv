@@ -1,11 +1,11 @@
-Name,Type(KYT/Research/Explorer/Labeling),KeyNotes,OfficialURL
-Chainalysis,KYT,Blockchain compliance and transaction monitoring,https://www.chainalysis.com
-TRM Labs,KYT,Blockchain intelligence and compliance tooling,https://www.trmlabs.com
-Elliptic,KYT,Blockchain analytics for compliance,https://www.elliptic.co
-Nansen,Research,On-chain analytics dashboards,https://www.nansen.ai
-Dune,Research,Query-based analytics for on-chain data,https://dune.com
-Etherscan,Explorer,Ethereum block explorer,https://etherscan.io
-Blockchair,Explorer,Multi-chain block explorer,https://blockchair.com
-Arkham,Labeling,Entity labeling and intelligence platform,https://arkhamintelligence.com
-Token Terminal,Research,Protocol financial analytics,https://tokenterminal.com
-DefiLlama,Research,DeFi TVL and market data aggregator,https://defillama.com
+Name,Founded,Type(KYT/Research/Explorer/Labeling),KeyNotes,OfficialURL
+Chainalysis,2014,KYT,Blockchain compliance and transaction monitoring,https://www.chainalysis.com
+TRM Labs,2018,KYT,Blockchain intelligence and compliance tooling,https://www.trmlabs.com
+Elliptic,2013,KYT,Blockchain analytics for compliance,https://www.elliptic.co
+Nansen,2020,Research,On-chain analytics dashboards,https://www.nansen.ai
+Dune,2018,Research,Query-based analytics for on-chain data,https://dune.com
+Etherscan,2015,Explorer,Ethereum block explorer,https://etherscan.io
+Blockchair,2018,Explorer,Multi-chain block explorer,https://blockchair.com
+Arkham,2023,Labeling,Entity labeling and intelligence platform,https://arkhamintelligence.com
+Token Terminal,2020,Research,Protocol financial analytics,https://tokenterminal.com
+DefiLlama,2021,Research,DeFi TVL and market data aggregator,https://defillama.com
