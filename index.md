@@ -14,6 +14,7 @@ title: Crypto Domain Knowledge
 ## Navigation
 - Landscape: [landscape.md](landscape.md)
 - Glossary: [glossary.md](glossary.md)
+- Timeline: [timeline.md](timeline.md)
 
 ## Data Tables (Optional)
 <details>
