@@ -27,7 +27,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td><a href="https://bitcoin.org">Bitcoin</a></td>
       <td>2009-01</td>
       <td>L1</td>
-      <td>BTC</td>
+      <td><a href="https://mempool.space">BTC</a></td>
       <td>Payments</td>
       <td>PoW UTXO chain focused on payments</td>
       <td><a href="https://en.wikipedia.org/wiki/Satoshi_Nakamoto">Satoshi Nakamoto</a> (中本聪)</td>
@@ -36,7 +36,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td><a href="https://ethereum.org">Ethereum</a></td>
       <td>2015-07</td>
       <td>L1</td>
-      <td>ETH</td>
+      <td><a href="https://etherscan.io">ETH</a></td>
       <td>General</td>
       <td>General-purpose smart contract platform; EVM</td>
       <td><a href="https://en.wikipedia.org/wiki/Vitalik_Buterin">Vitalik Buterin</a> (V神)</td>
@@ -45,7 +45,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td><a href="https://www.bnbchain.org">BNB Chain</a></td>
       <td>2020-09</td>
       <td>L1</td>
-      <td>BNB</td>
+      <td><a href="https://bscscan.com">BNB</a></td>
       <td>General</td>
       <td>EVM-compatible smart contract chain</td>
       <td><a href="https://en.wikipedia.org/wiki/Changpeng_Zhao">Changpeng Zhao</a> (CZ)</td>
@@ -54,7 +54,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td><a href="https://solana.com">Solana</a></td>
       <td>2020-03</td>
       <td>L1</td>
-      <td>SOL</td>
+      <td><a href="https://explorer.solana.com">SOL</a></td>
       <td>General</td>
       <td>High-throughput PoS chain; Rust programs</td>
       <td><a href="https://en.wikipedia.org/wiki/Anatoly_Yakovenko">Anatoly Yakovenko</a></td>
@@ -63,7 +63,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td><a href="https://cardano.org">Cardano</a></td>
       <td>2017-09</td>
       <td>L1</td>
-      <td>ADA</td>
+      <td><a href="https://cardanoscan.io">ADA</a></td>
       <td>General</td>
       <td>PoS chain using UTXO model</td>
       <td><a href="https://en.wikipedia.org/wiki/Charles_Hoskinson">Charles Hoskinson</a></td>
@@ -72,7 +72,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td><a href="https://www.avax.network">Avalanche</a></td>
       <td>2020-09</td>
       <td>L1</td>
-      <td>AVAX</td>
+      <td><a href="https://subnets.avax.network">AVAX</a></td>
       <td>General</td>
       <td>Subnet-based PoS platform; EVM C-Chain</td>
       <td><a href="https://en.wikipedia.org/wiki/Emin_G%C3%BCn_Sirer">Emin Gün Sirer</a></td>
@@ -81,7 +81,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td><a href="https://polygon.technology">Polygon</a></td>
       <td>2020-06</td>
       <td>L1</td>
-      <td>MATIC</td>
+      <td><a href="https://polygonscan.com">MATIC</a></td>
       <td>General</td>
       <td>EVM scaling ecosystem; PoS chain</td>
       <td><a href="https://en.wikipedia.org/wiki/Sandeep_Nailwal">Sandeep Nailwal</a></td>
@@ -90,7 +90,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td><a href="https://tron.network">TRON</a></td>
       <td>2018-06</td>
       <td>L1</td>
-      <td>TRX</td>
+      <td><a href="https://tronscan.org">TRX</a></td>
       <td>Payments</td>
       <td>EVM-like chain focused on payments</td>
       <td><a href="https://en.wikipedia.org/wiki/Justin_Sun">Justin Sun</a> (孙哥)</td>
@@ -99,7 +99,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td><a href="https://cosmos.network">Cosmos</a></td>
       <td>2019-03</td>
       <td>L1</td>
-      <td>ATOM</td>
+      <td><a href="https://www.mintscan.io/cosmos">ATOM</a></td>
       <td>General</td>
       <td>IBC-based ecosystem; Cosmos SDK</td>
       <td><a href="https://x.com/jaaboris">Jae Kwon</a></td>
@@ -108,7 +108,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td><a href="https://polkadot.network">Polkadot</a></td>
       <td>2020-05</td>
       <td>L1</td>
-      <td>DOT</td>
+      <td><a href="https://polkadot.subscan.io">DOT</a></td>
       <td>General</td>
       <td>Relay chain with parachains; Substrate</td>
       <td><a href="https://en.wikipedia.org/wiki/Gavin_Wood">Gavin Wood</a></td>
@@ -117,7 +117,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td><a href="https://near.org">NEAR</a></td>
       <td>2020-10</td>
       <td>L1</td>
-      <td>NEAR</td>
+      <td><a href="https://nearblocks.io">NEAR</a></td>
       <td>General</td>
       <td>Sharded PoS chain; account model</td>
       <td><a href="https://en.wikipedia.org/wiki/Illia_Polosukhin">Illia Polosukhin</a></td>
@@ -126,7 +126,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td><a href="https://z.cash">Zcash</a></td>
       <td>2016-10</td>
       <td>L1</td>
-      <td>ZEC</td>
+      <td><a href="https://zcashblockexplorer.com">ZEC</a></td>
       <td>Privacy</td>
       <td>Privacy chain using zk-SNARKs; shielded transactions</td>
       <td><a href="https://en.wikipedia.org/wiki/Zooko_Wilcox-O%27Hearn">Zooko Wilcox</a></td>
@@ -135,7 +135,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td><a href="https://www.getmonero.org">Monero</a></td>
       <td>2014-04</td>
       <td>L1</td>
-      <td>XMR</td>
+      <td><a href="https://xmrchain.net">XMR</a></td>
       <td>Privacy</td>
       <td>Privacy chain using ring signatures and stealth addresses</td>
       <td>N/A</td>
@@ -144,7 +144,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td><a href="https://dogecoin.com">Dogecoin</a></td>
       <td>2013-12</td>
       <td>L1</td>
-      <td>DOGE</td>
+      <td><a href="https://dogechain.info">DOGE</a></td>
       <td>Meme</td>
       <td>PoW meme coin; Litecoin fork with Scrypt</td>
       <td><a href="https://x.com/BillyM2k">Billy Markus</a>; <a href="https://en.wikipedia.org/wiki/Elon_Musk">Elon Musk</a> (马斯克)</td>
@@ -153,7 +153,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td><a href="https://sui.io">Sui</a></td>
       <td>2023-05</td>
       <td>L1</td>
-      <td>SUI</td>
+      <td><a href="https://suiscan.xyz">SUI</a></td>
       <td>General</td>
       <td>Move-based chain with object-centric model</td>
       <td><a href="https://www.linkedin.com/in/evancheng">Evan Cheng</a></td>
@@ -162,7 +162,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td><a href="https://aptoslabs.com">Aptos</a></td>
       <td>2022-10</td>
       <td>L1</td>
-      <td>APT</td>
+      <td><a href="https://explorer.aptoslabs.com">APT</a></td>
       <td>General</td>
       <td>Move-based chain from ex-Diem team</td>
       <td><a href="https://www.linkedin.com/in/moashaikh">Mo Shaikh</a></td>
@@ -171,7 +171,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td><a href="https://fantom.foundation">Fantom</a></td>
       <td>2019-12</td>
       <td>L1</td>
-      <td>FTM</td>
+      <td><a href="https://ftmscan.com">FTM</a></td>
       <td>General</td>
       <td>DAG-based EVM chain with Lachesis consensus</td>
       <td><a href="https://x.com/AndreCronjeTech">Andre Cronje</a></td>
@@ -180,7 +180,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td><a href="https://hedera.com">Hedera</a></td>
       <td>2019-09</td>
       <td>L1</td>
-      <td>HBAR</td>
+      <td><a href="https://hashscan.io">HBAR</a></td>
       <td>General</td>
       <td>Hashgraph consensus; governed by council</td>
       <td><a href="https://en.wikipedia.org/wiki/Leemon_Baird">Leemon Baird</a></td>
@@ -189,7 +189,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td><a href="https://arbitrum.io">Arbitrum</a></td>
       <td>2021-08</td>
       <td>L2</td>
-      <td>ARB</td>
+      <td><a href="https://arbiscan.io">ARB</a></td>
       <td>General</td>
       <td>Ethereum optimistic rollup L2</td>
       <td>N/A</td>
@@ -198,7 +198,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td><a href="https://optimism.io">Optimism</a></td>
       <td>2021-12</td>
       <td>L2</td>
-      <td>OP</td>
+      <td><a href="https://optimistic.etherscan.io">OP</a></td>
       <td>General</td>
       <td>Ethereum optimistic rollup L2</td>
       <td>N/A</td>
@@ -207,7 +207,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td><a href="https://base.org">Base</a></td>
       <td>2023-08</td>
       <td>L2</td>
-      <td>ETH</td>
+      <td><a href="https://basescan.org">ETH</a></td>
       <td>General</td>
       <td>Ethereum optimistic rollup L2 by Coinbase</td>
       <td>N/A</td>
@@ -216,7 +216,7 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td><a href="https://zksync.io">zkSync Era</a></td>
       <td>2023-03</td>
       <td>L2</td>
-      <td>ZK</td>
+      <td><a href="https://explorer.zksync.io">ZK</a></td>
       <td>General</td>
       <td>Ethereum zk rollup L2</td>
       <td>N/A</td>
@@ -225,10 +225,182 @@ Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2be
       <td><a href="https://starknet.io">Starknet</a></td>
       <td>2023-11</td>
       <td>L2</td>
-      <td>STRK</td>
+      <td><a href="https://starkscan.co">STRK</a></td>
       <td>General</td>
       <td>Ethereum zk rollup L2 with Cairo</td>
       <td>N/A</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+## Public Companies
+Sources: SEC filings, company announcements, financial press. Snapshot: 2026-02-08. Order is not a ranking.
+
+<div class="table-wrap">
+<table>
+  <thead>
+    <tr>
+      <th>Company</th>
+      <th>LandscapeSection</th>
+      <th>Status</th>
+      <th>Ticker</th>
+      <th>Exchange</th>
+      <th>ListingType</th>
+      <th>Date</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.coinbase.com">Coinbase</a></td>
+      <td>CEX / Wallets / Custody</td>
+      <td>Public</td>
+      <td>COIN</td>
+      <td>Nasdaq</td>
+      <td>Direct listing</td>
+      <td>2021-04</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.circle.com">Circle</a></td>
+      <td>Stablecoins (USDC)</td>
+      <td>Public</td>
+      <td>CRCL</td>
+      <td>NYSE</td>
+      <td>IPO</td>
+      <td>2025-06</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.gemini.com">Gemini</a></td>
+      <td>Custody</td>
+      <td>Public</td>
+      <td>GEMI</td>
+      <td>Nasdaq</td>
+      <td>IPO</td>
+      <td>2025-09</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.bitgo.com">BitGo</a></td>
+      <td>Custody</td>
+      <td>Public</td>
+      <td>BTGO</td>
+      <td>NYSE</td>
+      <td>IPO</td>
+      <td>2026-01</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.exodus.com">Exodus</a></td>
+      <td>Wallets</td>
+      <td>Public</td>
+      <td>EXOD</td>
+      <td>NYSE American</td>
+      <td>Uplist from OTC</td>
+      <td>2024-12</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.kraken.com">Kraken</a></td>
+      <td>CEX</td>
+      <td>IPO Filed</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>S-1 filed Nov 2025; expected 2026</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.ledger.com">Ledger</a></td>
+      <td>Wallets</td>
+      <td>IPO Filed</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>Preparing; Goldman/Jefferies/Barclays selected; expected 2026</td>
+    </tr>
+    <tr>
+      <td><a href="https://consensys.io">ConsenSys (MetaMask)</a></td>
+      <td>Wallets</td>
+      <td>IPO Filed</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>Preparing; JPMorgan/Goldman tapped; expected 2026</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.okx.com">OKX</a></td>
+      <td>CEX</td>
+      <td>Exploring IPO</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>Assessing US IPO after re-entering US market</td>
+    </tr>
+    <tr>
+      <td><a href="https://upbit.com">Upbit (Dunamu)</a></td>
+      <td>CEX</td>
+      <td>Exploring IPO</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>Naver merger; may pursue Nasdaq post-merger</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.chainalysis.com">Chainalysis</a></td>
+      <td>Security/Compliance</td>
+      <td>Exploring IPO</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>Named in 2026 IPO candidate lists</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.fireblocks.com">Fireblocks</a></td>
+      <td>Custody</td>
+      <td>Exploring IPO</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>"No urgency" but plans to list "in coming years"</td>
+    </tr>
+    <tr>
+      <td><a href="https://copper.co">Copper</a></td>
+      <td>Custody</td>
+      <td>Exploring IPO</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>Early talks; Goldman/Citi/Deutsche Bank involved</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.anchorage.com">Anchorage Digital</a></td>
+      <td>Custody</td>
+      <td>Exploring IPO</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>Targeting 2027 IPO</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.bitstamp.net">Bitstamp</a></td>
+      <td>CEX</td>
+      <td>Acquired by Public Co</td>
+      <td>HOOD</td>
+      <td></td>
+      <td>Acquired by Robinhood</td>
+      <td>2025-06</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
