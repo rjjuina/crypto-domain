@@ -18,7 +18,7 @@ title: Crypto Domain Knowledge
 
 ## Data Tables (Optional)
 <details>
-  <summary>Show CSV tables</summary>
+<summary>Show CSV tables</summary>
 
 - [tables/chains.csv](tables/chains.csv)
 - [tables/exchanges.csv](tables/exchanges.csv)
@@ -29,6 +29,7 @@ title: Crypto Domain Knowledge
 - [tables/security_tools.csv](tables/security_tools.csv)
 - [tables/middleware.csv](tables/middleware.csv)
 - [tables/multisig.csv](tables/multisig.csv)
+
 </details>
 
 ## Diagram
