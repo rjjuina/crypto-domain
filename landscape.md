@@ -20,13 +20,6 @@ title: Landscape
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://dune.com">Dune</a></td>
-      <td>2018</td>
-      <td><a href="https://x.com/hagaetc">Fredrik Haga</a></td>
-      <td>Research</td>
-      <td>Query-based analytics for on-chain data</td>
-    </tr>
-    <tr>
       <td><a href="https://defillama.com">DefiLlama</a></td>
       <td>2021</td>
       <td>0xngmi (pseudonym)</td>
@@ -88,6 +81,13 @@ title: Landscape
       <td>Brandon Chez</td>
       <td>Market Data</td>
       <td>Price/market-cap aggregator; acquired by Binance 2020</td>
+    </tr>
+    <tr>
+      <td><a href="https://dune.com">Dune</a></td>
+      <td>2018</td>
+      <td><a href="https://x.com/hagaetc">Fredrik Haga</a></td>
+      <td>Research</td>
+      <td>Query-based analytics for on-chain data</td>
     </tr>
   </tbody>
 </table>
