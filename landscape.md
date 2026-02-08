@@ -6,6 +6,198 @@ title: Landscape
 
 # Crypto Domain Landscape
 
+## Data/Analytics
+<div class="table-wrap">
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Founded</th>
+      <th>Founder</th>
+      <th>Type</th>
+      <th>KeyNotes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.nansen.ai">Nansen</a></td>
+      <td>2020</td>
+      <td><a href="https://x.com/ASvanevik">Alex Svanevik</a></td>
+      <td>Research</td>
+      <td>On-chain analytics dashboards</td>
+    </tr>
+    <tr>
+      <td><a href="https://dune.com">Dune</a></td>
+      <td>2018</td>
+      <td><a href="https://x.com/hagaetc">Fredrik Haga</a></td>
+      <td>Research</td>
+      <td>Query-based analytics for on-chain data</td>
+    </tr>
+    <tr>
+      <td><a href="https://tokenterminal.com">Token Terminal</a></td>
+      <td>2020</td>
+      <td><a href="https://x.com/henrihyvarinen">Henri Hyvärinen</a></td>
+      <td>Research</td>
+      <td>Protocol financial analytics</td>
+    </tr>
+    <tr>
+      <td><a href="https://defillama.com">DefiLlama</a></td>
+      <td>2021</td>
+      <td>0xngmi (pseudonym)</td>
+      <td>Research</td>
+      <td>DeFi TVL and market data aggregator</td>
+    </tr>
+    <tr>
+      <td><a href="https://etherscan.io">Etherscan</a></td>
+      <td>2015</td>
+      <td><a href="https://x.com/mtbitcoin">Matthew Tan</a></td>
+      <td>Explorer</td>
+      <td>Ethereum block explorer</td>
+    </tr>
+    <tr>
+      <td><a href="https://blockchair.com">Blockchair</a></td>
+      <td>2018</td>
+      <td><a href="https://x.com/nikzh">Nikita Zhavoronkov</a></td>
+      <td>Explorer</td>
+      <td>Multi-chain block explorer</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.coinglass.com">Coinglass</a></td>
+      <td>2020</td>
+      <td>N/A</td>
+      <td>Derivatives</td>
+      <td>Derivatives data; funding rates, liquidations, open interest</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.lookonchain.com">Lookonchain</a></td>
+      <td>2022</td>
+      <td>N/A</td>
+      <td>Research</td>
+      <td>On-chain whale and smart money tracking</td>
+    </tr>
+    <tr>
+      <td><a href="https://glassnode.com">Glassnode</a></td>
+      <td>2018</td>
+      <td><a href="https://x.com/negentropic_">Jan Happel; Yann Allemann</a></td>
+      <td>On-chain</td>
+      <td>BTC/ETH on-chain indicators; market cycles and sentiment</td>
+    </tr>
+    <tr>
+      <td><a href="https://cryptoquant.com">CryptoQuant</a></td>
+      <td>2019</td>
+      <td><a href="https://x.com/ki_young_ju">Ki Young Ju</a></td>
+      <td>On-chain</td>
+      <td>Exchange flows, derivatives data, whale tracking</td>
+    </tr>
+    <tr>
+      <td><a href="https://messari.io">Messari</a></td>
+      <td>2018</td>
+      <td><a href="https://x.com/twobitidiot">Ryan Selkis</a></td>
+      <td>Research</td>
+      <td>Protocol fundamentals, governance, market intelligence</td>
+    </tr>
+    <tr>
+      <td><a href="https://santiment.net">Santiment</a></td>
+      <td>2016</td>
+      <td><a href="https://x.com/balance_ra">Maksim Balashevich</a></td>
+      <td>Sentiment</td>
+      <td>On-chain and social sentiment analytics</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.intotheblock.com">IntoTheBlock</a></td>
+      <td>2018</td>
+      <td><a href="https://x.com/jrdothoughts">Jesus Rodriguez</a></td>
+      <td>AI Analytics</td>
+      <td>AI-driven on-chain signals and metrics</td>
+    </tr>
+    <tr>
+      <td><a href="https://coinmarketcap.com">CoinMarketCap</a></td>
+      <td>2013</td>
+      <td>Brandon Chez</td>
+      <td>Market Data</td>
+      <td>Price/market-cap aggregator; acquired by Binance 2020</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+## Useful X Accounts
+
+<div class="table-wrap">
+<table>
+  <thead>
+    <tr>
+      <th>Handle</th>
+      <th>Name</th>
+      <th>Focus</th>
+      <th>KeyNotes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://x.com/EmberCN">@EmberCN</a></td>
+      <td>Ember (余烬)</td>
+      <td>On-chain Analysis</td>
+      <td>Chinese-language on-chain whale tracking and market analysis</td>
+    </tr>
+    <tr>
+      <td><a href="https://x.com/SlowMist_Team">@SlowMist_Team</a></td>
+      <td>SlowMist (慢雾)</td>
+      <td>Security</td>
+      <td>Blockchain security firm; hack/exploit alerts and post-mortems</td>
+    </tr>
+    <tr>
+      <td><a href="https://x.com/wublockchain12">@wublockchain12</a></td>
+      <td>Wu Blockchain (吴说)</td>
+      <td>News</td>
+      <td>Crypto industry news; strong China/Asia coverage</td>
+    </tr>
+    <tr>
+      <td><a href="https://x.com/evilcos">@evilcos</a></td>
+      <td>Cos (余弦)</td>
+      <td>Security</td>
+      <td>SlowMist founder; Web3 security education and wallet safety</td>
+    </tr>
+    <tr>
+      <td><a href="https://x.com/zachxbt">@zachxbt</a></td>
+      <td>ZachXBT</td>
+      <td>Investigation</td>
+      <td>On-chain detective; scam/fraud exposure</td>
+    </tr>
+    <tr>
+      <td><a href="https://x.com/PeckShieldAlert">@PeckShieldAlert</a></td>
+      <td>PeckShield (派盾)</td>
+      <td>Security</td>
+      <td>Real-time hack/exploit alerts and fund tracing</td>
+    </tr>
+    <tr>
+      <td><a href="https://x.com/whale_alert">@whale_alert</a></td>
+      <td>Whale Alert</td>
+      <td>Whale Tracking</td>
+      <td>Large transaction notifications across chains</td>
+    </tr>
+    <tr>
+      <td><a href="https://x.com/ai_9684xtpa">@ai_9684xtpa</a></td>
+      <td>Ai姨</td>
+      <td>On-chain Analysis</td>
+      <td>On-chain whale tracking and transaction analysis</td>
+    </tr>
+    <tr>
+      <td><a href="https://x.com/DefiIgnas">@DefiIgnas</a></td>
+      <td>Ignas</td>
+      <td>DeFi</td>
+      <td>DeFi strategy, airdrop guides, yield analysis</td>
+    </tr>
+    <tr>
+      <td><a href="https://x.com/laurashin">@laurashin</a></td>
+      <td>Laura Shin</td>
+      <td>Journalism</td>
+      <td>Unchained podcast; investigative crypto journalism</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
 ## Chains
 Sources: [DefiLlama](https://defillama.com/chains) for L1, [L2Beat](https://l2beat.com/scaling/summary) for L2. Snapshot: 2026-02-04. Order is not a ranking.
 
@@ -990,114 +1182,6 @@ Source: [DefiLlama Restaking](https://defillama.com/protocols/Restaking). Snapsh
       <td><a href="https://en.wikipedia.org/wiki/Donald_Trump">Donald Trump</a> family</td>
       <td>DeFi</td>
       <td>DeFi protocol; WLFI governance token; Trump family affiliated</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-## Data/Analytics
-<div class="table-wrap">
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Founded</th>
-      <th>Founder</th>
-      <th>Type</th>
-      <th>KeyNotes</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://www.nansen.ai">Nansen</a></td>
-      <td>2020</td>
-      <td><a href="https://x.com/ASvanevik">Alex Svanevik</a></td>
-      <td>Research</td>
-      <td>On-chain analytics dashboards</td>
-    </tr>
-    <tr>
-      <td><a href="https://dune.com">Dune</a></td>
-      <td>2018</td>
-      <td><a href="https://x.com/hagaetc">Fredrik Haga</a></td>
-      <td>Research</td>
-      <td>Query-based analytics for on-chain data</td>
-    </tr>
-    <tr>
-      <td><a href="https://tokenterminal.com">Token Terminal</a></td>
-      <td>2020</td>
-      <td><a href="https://x.com/henrihyvarinen">Henri Hyvärinen</a></td>
-      <td>Research</td>
-      <td>Protocol financial analytics</td>
-    </tr>
-    <tr>
-      <td><a href="https://defillama.com">DefiLlama</a></td>
-      <td>2021</td>
-      <td>0xngmi (pseudonym)</td>
-      <td>Research</td>
-      <td>DeFi TVL and market data aggregator</td>
-    </tr>
-    <tr>
-      <td><a href="https://etherscan.io">Etherscan</a></td>
-      <td>2015</td>
-      <td><a href="https://x.com/mtbitcoin">Matthew Tan</a></td>
-      <td>Explorer</td>
-      <td>Ethereum block explorer</td>
-    </tr>
-    <tr>
-      <td><a href="https://blockchair.com">Blockchair</a></td>
-      <td>2018</td>
-      <td><a href="https://x.com/nikzh">Nikita Zhavoronkov</a></td>
-      <td>Explorer</td>
-      <td>Multi-chain block explorer</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.coinglass.com">Coinglass</a></td>
-      <td>2020</td>
-      <td>N/A</td>
-      <td>Derivatives</td>
-      <td>Derivatives data; funding rates, liquidations, open interest</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.lookonchain.com">Lookonchain</a></td>
-      <td>2022</td>
-      <td>N/A</td>
-      <td>Research</td>
-      <td>On-chain whale and smart money tracking</td>
-    </tr>
-    <tr>
-      <td><a href="https://glassnode.com">Glassnode</a></td>
-      <td>2018</td>
-      <td><a href="https://x.com/negentropic_">Jan Happel; Yann Allemann</a></td>
-      <td>On-chain</td>
-      <td>BTC/ETH on-chain indicators; market cycles and sentiment</td>
-    </tr>
-    <tr>
-      <td><a href="https://cryptoquant.com">CryptoQuant</a></td>
-      <td>2019</td>
-      <td><a href="https://x.com/ki_young_ju">Ki Young Ju</a></td>
-      <td>On-chain</td>
-      <td>Exchange flows, derivatives data, whale tracking</td>
-    </tr>
-    <tr>
-      <td><a href="https://messari.io">Messari</a></td>
-      <td>2018</td>
-      <td><a href="https://x.com/twobitidiot">Ryan Selkis</a></td>
-      <td>Research</td>
-      <td>Protocol fundamentals, governance, market intelligence</td>
-    </tr>
-    <tr>
-      <td><a href="https://santiment.net">Santiment</a></td>
-      <td>2016</td>
-      <td><a href="https://x.com/balance_ra">Maksim Balashevich</a></td>
-      <td>Sentiment</td>
-      <td>On-chain and social sentiment analytics</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.intotheblock.com">IntoTheBlock</a></td>
-      <td>2018</td>
-      <td><a href="https://x.com/jrdothoughts">Jesus Rodriguez</a></td>
-      <td>AI Analytics</td>
-      <td>AI-driven on-chain signals and metrics</td>
     </tr>
   </tbody>
 </table>
