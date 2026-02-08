@@ -20,25 +20,11 @@ title: Landscape
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://www.nansen.ai">Nansen</a></td>
-      <td>2020</td>
-      <td><a href="https://x.com/ASvanevik">Alex Svanevik</a></td>
-      <td>Research</td>
-      <td>On-chain analytics dashboards</td>
-    </tr>
-    <tr>
       <td><a href="https://dune.com">Dune</a></td>
       <td>2018</td>
       <td><a href="https://x.com/hagaetc">Fredrik Haga</a></td>
       <td>Research</td>
       <td>Query-based analytics for on-chain data</td>
-    </tr>
-    <tr>
-      <td><a href="https://tokenterminal.com">Token Terminal</a></td>
-      <td>2020</td>
-      <td><a href="https://x.com/henrihyvarinen">Henri Hyvärinen</a></td>
-      <td>Research</td>
-      <td>Protocol financial analytics</td>
     </tr>
     <tr>
       <td><a href="https://defillama.com">DefiLlama</a></td>
@@ -95,20 +81,6 @@ title: Landscape
       <td><a href="https://x.com/twobitidiot">Ryan Selkis</a></td>
       <td>Research</td>
       <td>Protocol fundamentals, governance, market intelligence</td>
-    </tr>
-    <tr>
-      <td><a href="https://santiment.net">Santiment</a></td>
-      <td>2016</td>
-      <td><a href="https://x.com/balance_ra">Maksim Balashevich</a></td>
-      <td>Sentiment</td>
-      <td>On-chain and social sentiment analytics</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.intotheblock.com">IntoTheBlock</a></td>
-      <td>2018</td>
-      <td><a href="https://x.com/jrdothoughts">Jesus Rodriguez</a></td>
-      <td>AI Analytics</td>
-      <td>AI-driven on-chain signals and metrics</td>
     </tr>
     <tr>
       <td><a href="https://coinmarketcap.com">CoinMarketCap</a></td>
